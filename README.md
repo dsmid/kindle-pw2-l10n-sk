@@ -1,1 +1,1 @@
-/home/david/Kindle/localization/sk/kindle-pw2-l10n-sk/loc_hack/src/README_5.4.3.1
+loc_hack/src/README_5.4.3.1
