@@ -92,231 +92,231 @@ msgid "Default Monospace Font Size"
 msgstr "Východzia veľkosť písma s pevnou šírkou"
 
 msgid "Destination URI"
-msgstr "Cílová adresa URI"
+msgstr "Cieľová adresa URI"
 
 msgid ""
 "Determines the current policy for the horizontal scrollbar of the frame."
-msgstr "Údaj o aktuální strategii horizontálního posuvníku rámce."
+msgstr "Údaj o aktuálnej stratégii horizontálneho posuvníku rámca."
 
 msgid "Determines the current policy for the vertical scrollbar of the frame."
-msgstr "Údaj o aktuální strategii vertikálního posuvníku rámce."
+msgstr "Údaj o aktuálnej stratégii vertikálneho posuvníku rámca."
 
 msgid "Determines the current progress of the download"
-msgstr "Údaj o aktuálním průběhu stahování"
+msgstr "Údaj o aktuálnom priebehu sťahovania"
 
 msgid "Determines the current status of the download"
-msgstr "Údaj o aktuálním stavu stahování"
+msgstr "Údaj o aktuálnom stave sťahovania"
 
 msgid "Editable"
-msgstr "Upravitelné"
+msgstr "Upraviteľný"
 
 msgid "Editing behavior"
-msgstr "Chování při úpravách"
+msgstr "Správanie pri úpravách"
 
 msgid "Enable Caret Browsing"
-msgstr "Povolit prohlížení s kurzorem"
+msgstr "Povoliť prehliadanie s kurzorom"
 
 msgid "Enable DOM paste"
-msgstr "Povolit vkládání DOM"
+msgstr "Povoliť vkladanie DOM"
 
 msgid "Enable Default Context Menu"
-msgstr "Povolit výchozí kontextovou nabídku"
+msgstr "Povoliť východziu kontextovú ponuku"
 
 msgid "Enable Developer Extras"
-msgstr "Povolit rozšíření pro vývojáře"
+msgstr "Povoliť rozšírenie pre vývojárov"
 
 msgid "Enable HTML5 Database"
-msgstr "Povolit databázi HTML5"
+msgstr "Povoliť databázu HTML5"
 
 msgid "Enable HTML5 Local Storage"
-msgstr "Povolit místní úložiště HTML5"
+msgstr "Povoliť miestne úložisko HTML5"
 
 msgid "Enable Java Applet"
-msgstr "Povolit applet jazyka Java"
+msgstr "Povoliť applet jazyka Java"
 
 msgid "Enable JavaScript profiling"
-msgstr "Povolit profilování jazyka JavaScript"
+msgstr "Povoliť profilovanie jazyka JavaScript"
 
 msgid "Enable Plugins"
-msgstr "Povolit zásuvné moduly"
+msgstr "Povoliť zásuvné moduly"
 
 msgid "Enable Private Browsing"
-msgstr "Povolit soukromé prohlížení"
+msgstr "Povoliť súkromné prehliadanie"
 
 msgid "Enable Scripts"
-msgstr "Povolit skripty"
+msgstr "Povoliť skripty"
 
 msgid "Enable Spell Checking"
-msgstr "Povolit kontrolu pravopisu"
+msgstr "Povoliť kontrolu pravopisu"
 
 msgid "Enable Timeline profiling"
-msgstr "Povolit profilování časové osy"
+msgstr "Povoliť profilovanie časovej osy"
 
 msgid "Enable XSS Auditor"
-msgstr "Povolit revizi XSS"
+msgstr "Povoliť revíziu XSS"
 
 msgid "Enable embedded plugin objects."
-msgstr "Povolit vložené objekty zásuvných modulů."
+msgstr "Povoliť vložené objekty zásuvných modulov."
 
 msgid "Enable embedded scripting languages."
-msgstr "Povolit vložené skriptovací jazyky."
+msgstr "Povoliť vložené skriptovacie jazyky."
 
 msgid "Enable offline web application cache"
-msgstr "Povolit ukládání stránek do vyrovnávací paměti"
+msgstr "Povoliť ukladanie stránok do vyrovnávacej pamäte"
 
 msgid "Enable page cache"
-msgstr "Povolit vyrovnávací paměť stránky"
+msgstr "Povoliť vyrovnávaciu pamäť stránky"
 
 msgid "Enable universal access from file URIs"
-msgstr "Povolit univerzální přístup ze souboru s URI"
+msgstr "Povoliť univerzálny prístup zo súboru s URI"
 
 msgid "Enables private browsing mode"
-msgstr "Povolit režim soukromého prohlížení stránek"
+msgstr "Povoliť režim súkromného prehliadania stránok"
 
 msgid "Enables special extensions that help developers"
-msgstr "Povolit zvláštní rozšíření pomáhající vývojářům"
+msgstr "Povoliť zvláštne rozšírenie pomáhajúce vývojárom"
 
 msgid "Enables spell checking while typing"
-msgstr "Povolit kontrolu pravopisu při psaní"
+msgstr "Povoliť kontrolu pravopisu počas písania"
 
 msgid ""
 "Enables the handling of right-clicks for the creation of the default context "
 "menu"
 msgstr ""
-"Poboluje správu tvorby výchozí kontextové nabídky při klepnutí pravým "
-"tlačítkem"
+"Povoluje správu tvorby východzej kontextovej ponuky pri kliknutí pravým "
+"tlačidlom"
 
 msgid "Enables the site-specific compatibility workarounds"
-msgstr "Povolit řešení komapatibility specifických stránek"
+msgstr "Povoľuje riešenie komapatibility specifických stránok"
 
 msgid "Encoding"
-msgstr "Kódování"
+msgstr "Kódovánie"
 
 msgid "Enforce 96 DPI"
-msgstr "Vynutit 96 DPI"
+msgstr "Vynútiť 96 DPI"
 
 msgid "Enforce a resolution of 96 DPI"
-msgstr "Vynutit rozlišení 96 DPI"
+msgstr "Vynútiť rozlíšenie 96 DPI"
 
 msgid "Fantasy Font Family"
 msgstr "Rodina písma Fantasy"
 
 msgid "Full content zoom"
-msgstr "Změna velikosti celého obsahu"
+msgstr "Zmena veľkosti celého obsahu"
 
 msgid "Horizontal Scrollbar Policy"
-msgstr "Strategie pro vodorovný posuvník"
+msgstr "Stratégia pre vodorovný posuvník"
 
 msgid "Icon URI"
-msgstr "Adresa URI ikony"
+msgstr "Ikona URI"
 
 msgid "Ignore _Grammar"
-msgstr "Ignorovat _gramatiku"
+msgstr "Ignorovať _gramatiku"
 
 msgid "Input _Methods"
-msgstr "Vstupní _metody"
+msgstr "Vstupné _metódy"
 
 msgid "Inspect _Element"
-msgstr "Zkoumat _prvek"
+msgstr "Skúmať _prvok"
 
 msgid "Inspected URI"
-msgstr "Zkoumaná adresa URI"
+msgstr "Skúmaná adresa URI"
 
 msgid "JavaScript can open windows automatically"
-msgstr "JavaScript smí automaticky otevírat okna"
+msgstr "JavaScript smie automaticky otvárať okná"
 
 msgid "LRE Left-to-right _embedding"
-msgstr "LRE - _zapouzdření zleva doprava"
+msgstr "LRE - _zapúzdrenie zľava doprava"
 
 msgid "LRM _Left-to-right mark"
-msgstr "LRM - značka z_leva doprava"
+msgstr "LRM - značka zľa_va doprava"
 
 msgid "LRO Left-to-right _override"
-msgstr "LRO - _přepisování zleva doprava"
+msgstr "LRO - _prepisovanie zľava doprava"
 
 msgid "Languages to use for spell checking"
-msgstr "Jazyk, který použít ke kontrole pravopisu"
+msgstr "Jazyk, ktorý použiť ku kontrole pravopisu"
 
 msgid "Last visited Time"
-msgstr "Čas poslední návštěvy"
+msgstr "Čas poslednej návštevy"
 
 msgid "Live Broadcast"
-msgstr "Živý přenos"
+msgstr "Živý prenos"
 
 msgid "Load images automatically."
-msgstr "Automatický načíst obrázky."
+msgstr "Automaticky načítať obrázky."
 
 msgid "Loading..."
-msgstr "Načítá se…"
+msgstr "Načítava sa…"
 
 msgid "Minimum Font Size"
-msgstr "Minimální velikost písma"
+msgstr "Minimálna veľkosť písma"
 
 msgid "Minimum Logical Font Size"
-msgstr "Minimální logická velikost písma"
+msgstr "Minimálna logická veľkosť písma"
 
 msgid "Modifier state"
-msgstr "Stav modifikátoru"
+msgstr "Stav modifikátora"
 
 msgid "Monospace Font Family"
-msgstr "Rodina písma s pevnou šířkou"
+msgstr "Rodina písma s pevnou šírkou"
 
 msgid "Name"
-msgstr "Název"
+msgstr "Názov"
 
 msgid "Network Request"
-msgstr "Síťový požadavek"
+msgstr "Sieťová požiadavka"
 
 msgid "Network Response"
-msgstr "Síťová odpověď"
+msgstr "Odpoveď zo siete"
 
 msgid "No Guesses Found"
-msgstr "Nebyly nalezeny žádné návrhy"
+msgstr "Neboli nájdené žíadne návrhy"
 
 msgid "No recent searches"
-msgstr "Žádná nedávná hledání"
+msgstr "Žiadne nedávne hľadania"
 
 msgid "Open Link in New _Window"
-msgstr "Otevřít odkaz v novém _okně"
+msgstr "Otvoriť odkaz v novom _okne"
 
 msgid "Open _Frame in New Window"
-msgstr "Otevřít _rám v novém okně"
+msgstr "Otvoriť _rám v novom okne"
 
 msgid "Open _Image in New Window"
-msgstr "Otevřít o_brázek v novém okně"
+msgstr "Otvoriť o_brázok v novom okne"
 
 msgid "Original URI"
-msgstr "Původní adresa URI"
+msgstr "Pôvodná adresa URI"
 
 msgid "PDF _Pop directional formatting"
-msgstr "PDF - zrušení směrovaného _formátování"
+msgstr "PDF - zrušenie smerovaného _formátovania"
 
 msgid "Password:"
 msgstr "Heslo:"
 
 msgid "Paste target list"
-msgstr "Seznam cílů vkládání"
+msgstr "Vložiť cieľový zoznam"
 
 msgid "Play movie in fullscreen mode"
-msgstr "Přehrát video na celou obrazovku"
+msgstr "Prehrať video na celú obrazovku"
 
 msgid "Print Backgrounds"
-msgstr "Tisknout pozadí"
+msgstr "Tlačiť pozadie"
 
 msgid "Profile the executed JavaScript."
-msgstr "Profilovat spuštěné skripty jazyka JavaScript."
+msgstr "Profilovať spustené skripty jazyka JavaScript."
 
 msgid "Progress"
-msgstr "Průběh"
+msgstr "Priebeh"
 
 msgid "RLE Right-to-left e_mbedding"
-msgstr "RLE - z_apouzdření zprava doleva"
+msgstr "RLE - z_apúzdrenie sprava doľava"
 
 msgid "RLM _Right-to-left mark"
-msgstr "RLM - značka zp_rava doleva"
+msgstr "RLM - značka sp_rava doľava"
 
 msgid "RLO Right-to-left o_verride"
-msgstr "RLO - př_episování zprava doleva"
+msgstr "RLO - pr_episovanie sprava doľava"
 
 msgid "Reason"
 msgstr "Důvod"
