@@ -319,37 +319,37 @@ msgid "RLO Right-to-left o_verride"
 msgstr "RLO - pr_episovanie sprava doľava"
 
 msgid "Reason"
-msgstr "Důvod"
+msgstr "Dôvod"
 
 msgid "Recent searches"
-msgstr "Nedávná hledání"
+msgstr "Nedávne hľadania"
 
 msgid "Reset"
 msgstr "Reset"
 
 msgid "Resizable Text Areas"
-msgstr "Měnitelná velikost textového pole"
+msgstr "Meniteľná veľkosť textového poľa"
 
 msgid "Returns the @web_view's document title"
-msgstr "Vrací název dokumentu @web_view"
+msgstr "Vracia názov dokumentu @web_view"
 
 msgid "Returns the current URI of the contents displayed by the @web_view"
-msgstr "Vrací aktuální adresu URI obsahu zobrazeného pomocí @web_view"
+msgstr "Vracia aktuálnu adresu URI obsahu zobrazeného pomocou @web_view"
 
 msgid "Sa_ve Image As"
-msgstr "_Uložit obrázek jako"
+msgstr "_Uložiť obrázok ako"
 
 msgid "Sans Serif Font Family"
-msgstr "Rodina písem Sans Serif"
-
-msgid "Serif Font Family"
 msgstr "Rodina písma Sans Serif"
 
+msgid "Serif Font Family"
+msgstr "Rodina písma Serif"
+
 msgid "Server message:"
-msgstr "Zpráva serveru:"
+msgstr "Správa servera:"
 
 msgid "Settings"
-msgstr "Nastavení"
+msgstr "Nastavenia"
 
 msgid "Spelling and _Grammar"
 msgstr "Kontrola pravopisu a _gramatiky"
@@ -358,54 +358,54 @@ msgid "Status"
 msgstr "Stav"
 
 msgid "Submit"
-msgstr "Potvrdit"
+msgstr "Potvrdiť"
 
 msgid "Suggested Filename"
-msgstr "Navrhovaný název souboru"
+msgstr "Navrhovaný názov súboru"
 
 msgid "Tab key cycles through elements"
-msgstr "Tabulátor cyklicky prochází prvky"
+msgstr "Tabulátor cyklicky prechádza prvkami"
 
 msgid "Target frame"
-msgstr "Cílový rám"
+msgstr "Cieľový rám"
 
 msgid "The URI for the favicon for the #WebKitWebView."
-msgstr "Adresa URI ikony stránky pro #WebKitWebView."
+msgstr "Adresa URI ikony pre #WebKitWebView."
 
 msgid "The URI of a stylesheet that is applied to every page."
 msgstr ""
-"Adresa URI, kde se nachází předpis vzhledu, který bude aplikován na každou "
+"Adresa URI, kde sa nachádza predpis vzhľadu, ktorý bude aplikovaný na každú "
 "stránku."
 
 msgid "The URI of the history item"
-msgstr "Adresa URI položky historie"
+msgstr "Adresa URI položky histórie"
 
 msgid "The URI that is currently being inspected"
-msgstr "Adresa URI, která je právě zkoumána"
+msgstr "Adresa URI, ktorá sa práve skúma"
 
 msgid "The URI that was requested as the target for the navigation"
-msgstr "Adresa URI, která byla požadována jako cíl navigace"
+msgstr "Adresa URI, ktorá bola požadovaná ako cieľ navigácie"
 
 msgid "The User-Agent string used by WebKitGtk"
-msgstr "Řetězec identifikace prohlížeče (User agent), který WebKitGtk použije"
+msgstr "Reťazec identifikácie prehliadača (User agent), ktorý WebKitGtk použije"
 
 msgid "The Web View that renders the Web Inspector itself"
-msgstr "Zobrazení WWW, které vykresluje samotné Zkoumání WWW"
+msgstr "Zobrazenie WWW, ktoré vykresluje samotné Skúmanie WWW"
 
 msgid "The alternate title of the history item"
-msgstr "Alternativní nadpis položky historie"
+msgstr "Alternatívny nadpis položky histórie"
 
 msgid "The associated WebKitWebInspector instance"
-msgstr "Asociovaná instance WebKitWebInspector"
+msgstr "Asociovaná inštancia WebKitWebInspector"
 
 msgid "The behavior mode to use in editing mode"
-msgstr "Režim chování v režimu úprav"
+msgstr "Režim správania v režime úprav"
 
 msgid "The button used to click"
-msgstr "Tlačítko používané ke klepnutí"
+msgstr "Tlačidlo používané na kliknutie"
 
 msgid "The current URI of the contents displayed by the frame"
-msgstr "Aktuální adresa URI obsahu zobrazeného v rámci"
+msgstr "Aktuálna adresa URI obsahu zobrazeného v rámci"
 
 msgid "The custom encoding of the web view"
 msgstr "Vlastní kódování zobrazení WWW"
