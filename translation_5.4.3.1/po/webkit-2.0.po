@@ -12,84 +12,84 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid " files"
-msgstr " soubory"
+msgstr " súbory"
 
 msgid "(None)"
-msgstr "(Nic)"
+msgstr "(Nič)"
 
 msgid "A bitmask representing the state of the modifier keys"
-msgstr "Bitová maska reprezentující stav modifikátorových kláves"
+msgstr "Bitová maska reprezentujúca stav modifikátorových kláves"
 
 msgid "A username and password are being requested by the site %s"
-msgstr "Požadované uživatelské jméno a heslo, které je vyžadováno stránkou %s"
+msgstr "Užívateľské meno a heslo je požadované stránkou %s"
 
 msgid "Alternate Title"
-msgstr "Alternativní nadpis"
+msgstr "Alternatívny nadpis"
 
 msgid "An associated WebKitWebSettings instance"
-msgstr "Asociovaná instance WebKitWebSettings"
+msgstr "Asociovaná inštancia WebKitWebSettings"
 
 msgid "Auto Load Images"
-msgstr "Obrázky automaticky"
+msgstr "Automaticky načítať obrázky"
 
 msgid "Auto Resize Window"
-msgstr "Automatická změna velikosti okna"
+msgstr "Automaticky meniť veľkosť okna"
 
 msgid "Auto Shrink Images"
-msgstr "Zmenšovat obrázky"
+msgstr "Automaticky zmenšovať obrázky"
 
 msgid "Automatically resize the toplevel window when a page requests it"
-msgstr "Automaticky změnit velikost okna, pokud o to stránka požádá"
+msgstr "Automaticky zmeniť veľkosť okna, pokiaľ o to požiada stránka"
 
 msgid "Automatically shrink standalone images to fit."
 msgstr ""
-"Automaticky zmenšovat samostatně zobrazené obrázky tak, aby se vešly na "
+"Automaticky zmenšovať samostatne zobrazené obrázky tak, aby vošly na "
 "obrazovku."
 
 msgid "Button"
-msgstr "Tlačítko"
+msgstr "Tlačidlo"
 
 msgid "Check Spelling While _Typing"
-msgstr "_Kontrola pravopisu během psaní"
+msgstr "_Kontrola pravopisu počas písania"
 
 msgid "Check _Grammar With Spelling"
-msgstr "Kontrolovat _gramatiku pomocí pravopisu"
+msgstr "Kontrolovať _gramatiku pomocou pravopisu"
 
 msgid "Choose File"
-msgstr "Vybrat soubor"
+msgstr "Vybrať súbor"
 
 msgid "Comma separated list of languages to use for spell checking"
-msgstr "Seznam jazyků použitých ke kontrole pravopisu, oddělený čárkami"
+msgstr "Zoznam jazykov použitých ku kontrole pravopisu, oddelené čiarkami"
 
 msgid "Cop_y Image"
-msgstr "Ko_pírovat obrázek"
+msgstr "Ko_pírovať obrázok"
 
 msgid "Copy Link Loc_ation"
-msgstr "_Kopírovat adresu odkazu"
+msgstr "_Kopírovať adresu odkazu"
 
 msgid "Copy target list"
-msgstr "Seznam cílů kopírování"
+msgstr "Kopírovať cieľový zoznam"
 
 msgid "Current Size"
-msgstr "Aktuální velikost"
+msgstr "Aktuálna veľkosť"
 
 msgid "Cursive Font Family"
 msgstr "Rodina písma kurzíva"
 
 msgid "Custom Encoding"
-msgstr "Vlastní kódování"
+msgstr "Vlastné kódovanie"
 
 msgid "Default Encoding"
-msgstr "Výchozí kódování"
+msgstr "Východzie kódovanie"
 
 msgid "Default Font Family"
-msgstr "Výchozí rodina písma"
+msgstr "Východzia rodina písma"
 
 msgid "Default Font Size"
-msgstr "Výchozí velikost písma"
+msgstr "Východzia veľkosť písma"
 
 msgid "Default Monospace Font Size"
-msgstr "Výchozí velikost písma s pevnou šířkou"
+msgstr "Východzia veľkosť písma s pevnou šírkou"
 
 msgid "Destination URI"
 msgstr "Cílová adresa URI"
