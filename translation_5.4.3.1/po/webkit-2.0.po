@@ -21,7 +21,7 @@ msgid "A bitmask representing the state of the modifier keys"
 msgstr "Bitová maska reprezentujúca stav modifikátorových kláves"
 
 msgid "A username and password are being requested by the site %s"
-msgstr "Užívateľské meno a heslo je požadované stránkou %s"
+msgstr "Užívateľské meno a heslo je vyžadované stránkou %s"
 
 msgid "Alternate Title"
 msgstr "Alternatívny nadpis"
