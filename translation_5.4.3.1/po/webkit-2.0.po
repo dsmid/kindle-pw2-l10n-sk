@@ -408,260 +408,260 @@ msgid "The current URI of the contents displayed by the frame"
 msgstr "Aktuálna adresa URI obsahu zobrazeného v rámci"
 
 msgid "The custom encoding of the web view"
-msgstr "Vlastní kódování zobrazení WWW"
+msgstr "Vlastné kódovanie zobrazenia WWW"
 
 msgid "The default Cursive font family used to display text."
-msgstr "Výchozí písmo z rodiny kurzíva použité k zobrazení textu."
+msgstr "Východzie písmo z rodiny kurzíva použité k zobrazeniu textu."
 
 msgid "The default Fantasy font family used to display text."
-msgstr "Výchozí rodina písma Fantasy použitého k zobrazení textu."
+msgstr "Východzie písmo z rodiny Fantasy použité k zobrazeniu textu."
 
 msgid "The default Sans Serif font family used to display text."
-msgstr "Výchozí písmo z rodiny Sans Serif použité k zobrazení textu."
+msgstr "Východzie písmo z rodiny Sans Serif použité k zobrazeniu textu."
 
 msgid "The default Serif font family used to display text."
-msgstr "Výchozí písmo z rodiny Serif použité k zobrazení textu."
+msgstr "Východzie písmo z rodiny Serif použité k zobrazeniu textu."
 
 msgid "The default encoding of the web view"
-msgstr "Výchozí kódování zobrazení WWW"
+msgstr "Východzie kódovanie zobrazenia WWW"
 
 msgid "The default encoding used to display text."
-msgstr "Výchozí kódování textu použité k zobrazení textu."
+msgstr "Východzie kódovanie textu použité k zobrazeniu textu."
 
 msgid "The default font family used to display monospace text."
-msgstr "Výchozí rodina písma použitého k zobrazení textu s pevnou šířkou."
+msgstr "Východzia rodina písma použitého k zobrazeniu textu s pevnou šírkou."
 
 msgid "The default font family used to display text."
-msgstr "Výchozí rodina písma použitého k zobrazení textu."
+msgstr "Východzia rodina písma použitého k zobrazeniu textu."
 
 msgid "The default font size used to display monospace text."
-msgstr "Výchozí velikost písma použitá k zobrazení textu s pevnou šířkou."
+msgstr "Východzia veľkosť písma použitá k zobrazeniu textu s pevnou šírkou."
 
 msgid "The default font size used to display text."
-msgstr "Výchozí velikost písma použitá k zobrazení textu."
+msgstr "Východzia veľkosť písma použitá k zobrazeniu textu."
 
 msgid "The destination URI where to save the file"
-msgstr "Cílová adresa URI, kam soubor uložit"
+msgstr "Cieľová adresa URI, kam uložiť súbor"
 
 msgid "The document title of the frame"
 msgstr "Nadpis dokumentu rámu"
 
 msgid "The filename suggested as default when saving"
-msgstr "Výchozí název souboru při uložení"
+msgstr "Navrhovaný východzí názov súboru pri uložení"
 
 msgid "The length of the data already downloaded"
-msgstr "Objem již stažených dat"
+msgstr "Objem už stiahnutých dát"
 
 msgid "The level of zoom of the content"
-msgstr "Úroveň zvětšení obsahu"
+msgstr "Úroveň zväčšenia obsahu"
 
 msgid "The list of targets this web view supports for clipboard copying"
 msgstr ""
-"Seznam cílů, které zobrazení stránky podporuje pro operace kopírování pomocí "
+"Zoznam cieľov, ktoré podporuje zobrazenie stránky pre operácie kopírovania pomocou "
 "schránky"
 
 msgid "The list of targets this web view supports for clipboard pasting"
 msgstr ""
-"Seznam cílů, které zobrazení stránky podporuje pro operace vkládání pomocí "
+"Zoznam cieľov, ktoré podporuje zobrazenie stránky pre operácie vkladania pomocou "
 "schránky"
 
 msgid "The minimum font size used to display text."
-msgstr "Minimální velikost písma použitá k zobrazení textu."
+msgstr "Minimálna veľkosť písma použitá k zobrazeniu textu."
 
 msgid "The minimum logical font size used to display text."
-msgstr "Minimální logická velikost písma použítá k zobrazení textu."
+msgstr "Minimálna logická veľkosť písma použítá k zobrazeniu textu."
 
 msgid "The name of the frame"
-msgstr "Název rámu"
+msgstr "Názov rámu"
 
 msgid "The network request for the URI that should be downloaded"
-msgstr "Síťový požadavek na adresu URI, která má být stažena"
+msgstr "Sieťová požiadavka na adresu URI, ktorá má byť stiahnutá"
 
 msgid "The network response for the URI that should be downloaded"
-msgstr "Síťová odpověď na adresu URI, která má být stažena"
+msgstr "Odpoveď zo siete na adresu URI, ktorá má byť stiahnutá"
 
 msgid "The original URI of the history item"
-msgstr "Původní adresa URI položky historie"
+msgstr "Pôvodná adresa URI položky histórie"
 
 msgid "The reason why this navigation is occurring"
-msgstr "Důvod, proč se objevila tato navigace"
+msgstr "Dôvod, prečo sa objavila táto navigácia"
 
 msgid "The target frame for the navigation"
-msgstr "Cílový rám navigace"
+msgstr "Cieľový rám navigácie"
 
 msgid "The time at which the history item was last visited"
-msgstr "Čas, kdy byla položka historie naposledy navštívena"
+msgstr "Čas, kedy bola položka histórie naposledy navštívená"
 
 msgid "The title of the history item"
-msgstr "Nadpis položky historie"
+msgstr "Nadpis položky histórie"
 
 msgid "The total size of the file"
-msgstr "Celková velikost souboru"
+msgstr "Celková veľkosť súboru"
 
 msgid "The value by which the zoom level is changed when zooming in or out."
-msgstr "Hodnota změn velikosti jednotlivých kroků při zmenšování a zvětšování."
+msgstr "Hodnota zmien veľkosti jednotlivých krokov pri zmenšovaní a zväčšovaní."
 
 msgid "This is a searchable index. Enter search keywords: "
-msgstr "Tento seznam lze prohledávat. Zadejte klíčová slova hledání:"
+msgstr "Tento zoznam je možné prehľadávať. Zadajte kľúčové slová hľadania:"
 
 msgid "Title"
 msgstr "Nadpis"
 
 msgid "Total Size"
-msgstr "Celková velikost"
+msgstr "Celková veľkosť"
 
 msgid "Transparent"
-msgstr "Průhledné"
+msgstr "Priehľadné"
 
 msgid "URI"
 msgstr "Adresa URI"
 
 msgid "Unknown"
-msgstr "Neznámé"
+msgstr "Neznáme"
 
 msgid "Upload File"
-msgstr "Nahrát soubor"
+msgstr "Nahrať súbor"
 
 msgid "User Agent"
-msgstr "Identifikace prohlížeče"
+msgstr "Identifikácia prehliadača"
 
 msgid "User Stylesheet URI"
-msgstr "Cesta k předpisu vzhledu uživatele"
+msgstr "Cesta k predpisu vzhľadu užívateľa"
 
 msgid "User cancelled the download"
-msgstr "Stahování zrušeno uživatelem"
+msgstr "Sťahovanie zrušené užívateľom"
 
 msgid "Username:"
-msgstr "Uživatelské jméno:"
+msgstr "Užívateľské meno:"
 
 msgid "Vertical Scrollbar Policy"
-msgstr "Strategie pro svislý posuvník"
+msgstr "Stratégia pre zvislý posuvník"
 
 msgid "Web Inspector"
-msgstr "Zkoumání WWW"
+msgstr "Skúmanie WWW"
 
 msgid "Web View"
-msgstr "Zobrazení WWW"
+msgstr "Zobrazenie WWW"
 
 msgid "Whether Java Applet support through <applet> should be enabled"
-msgstr "Jestli má být povolena podpora jazyka JavaScript skrze značku <applet>"
+msgstr "Či má byť povolená podpora jazyka JavaScript skrz značku <applet>"
 
 msgid "Whether JavaScript can open windows automatically"
-msgstr "Jestli smí JavaScript automaticky otevírat okna"
+msgstr "či môže JavaScript automaticky otvárať okná"
 
 msgid "Whether background images should be printed."
-msgstr "Zda mají být tisknuty obrázky na pozadí."
+msgstr "Či majú byť tlačené aj obrázky na pozadí."
 
 msgid "Whether content can be modified by the user"
-msgstr "Jestli uživatel může upravovat obsah"
+msgstr "Či môže užívateľ upravovať obsah"
 
 msgid "Whether content has a transparent background"
-msgstr "Jestli má obsah průhledné pozadí"
+msgstr "Či má obsah priehľadné pozadie"
 
 msgid "Whether text areas are resizable."
-msgstr "Jestli je možno měnit velikost textového pole."
+msgstr "Či je možné meniť veľkosť textových polí."
 
 msgid "Whether the full content is scaled when zooming"
-msgstr "Jestli má být prováděna změna velikosti celého obsahu"
+msgstr "Či má byť vykonaná zmena veľkosti celého obsahu"
 
 msgid "Whether the page cache should be used"
-msgstr "Jestli použít vyrovnávací paměť pro stránky"
+msgstr "Či má byť použitá vyrovnávacia pamäť pre stránky"
 
 msgid "Whether the tab key cycles through elements on the page."
-msgstr "Jestli klávesa tabulátoru prochází cyklicky prvky stránky."
+msgstr "Či klávesa tabulátora prechádza cyklicky prvkami stránky."
 
 msgid "Whether to allow universal access from file URIs"
-msgstr "Povolit univerzální přístup ze souboru s adresami URI"
+msgstr "Či sa má povoliť univerzálny prístup zo súboru s adresami URI"
 
 msgid "Whether to enable DOM paste"
-msgstr "Jestli povolit vkládání DOM"
+msgstr "Či sa má povoliť vkladanie DOM"
 
 msgid "Whether to enable HTML5 Local Storage support"
-msgstr "Jestli má být povolena podpora místního úložiště HTML5"
+msgstr "Či má byť povolená podpora miestneho úložiska HTML5"
 
 msgid "Whether to enable HTML5 database support"
-msgstr "Jeslti povolit podporu pro databázi HTML5"
+msgstr "Či má byť povolená podpora pre databázu HTML5"
 
 msgid "Whether to enable accessibility enhanced keyboard navigation"
-msgstr "Jestli povolit zpřístupnění pomocí navigace klávesnicí"
+msgstr "Či má byť povolené sprístupnenie pomocou navigácie klávesnicou"
 
 msgid "Whether to enable offline web application cache"
-msgstr "Povolit ukládání stránek do vyrovnávací paměti k použití při odpojení"
+msgstr "Či povoliť ukladanie stránok do vyrovnávacej pamäte v móde offline"
 
 msgid "Whether to enable teh XSS auditor"
-msgstr "Jestli povolit revizi XSS"
+msgstr "či povoliť revíziu XSS"
 
 msgid "ZWJ Zero width _joiner"
-msgstr "ZWJ - _spojovač nulové šířky"
+msgstr "ZWJ - _spojovač nulovej šírky"
 
 msgid "ZWNJ Zero width _non-joiner"
-msgstr "ZWNJ - nespojovač n_ulové šířky"
+msgstr "ZWNJ - nespojovač n_ulovej šírky"
 
 msgid "ZWS _Zero width space"
-msgstr "ZWS - mezera _nulové šířky"
+msgstr "ZWS - mezera _nulovej šírky"
 
 msgid "Zoom Stepping Value"
-msgstr "Hodnota kroků změn velikosti"
+msgstr "Hodnota kroku zmien zväčšenia"
 
 msgid "Zoom level"
-msgstr "Úroveň zvětšení"
+msgstr "Úroveň zväčšenia"
 
 msgid "_Check Document Now"
-msgstr "_Zkontrolovat dokument"
+msgstr "_Skontrolovať dokument"
 
 msgid "_Clear recent searches"
-msgstr "_Vymazat nedávná hledání"
+msgstr "_Vymazať nedávne hľadania"
 
 msgid "_Download Linked File"
-msgstr "_Uložit odkazovaný soubor"
+msgstr "_Uložiť odkazovaný súbor"
 
 msgid "_Font"
 msgstr "_Písmo"
 
 msgid "_Hide Spelling and Grammar"
-msgstr "_Skrýt kontrolu pravopisu a gramatiky"
+msgstr "_Skryť kontrolu pravopisu a gramatiky"
 
 msgid "_Ignore Spelling"
-msgstr "_Ignorovat kontrolu pravopisu"
+msgstr "_Ignorovať kontrolu pravopisu"
 
 msgid "_Insert Unicode Control Character"
-msgstr "Vloži_t řídící znak Unicode"
+msgstr "Vlož_iť riadiaci znak Unicode"
 
 msgid "_Learn Spelling"
-msgstr "_Učit se kontrolu pravopisu"
+msgstr "_Učiť sa kontrolu pravopisu"
 
 msgid "_Look Up in Dictionary"
-msgstr "Vyh_ledat ve slovníku"
+msgstr "Vyhľadať v s_lovníku"
 
 msgid "_Open Link"
-msgstr "_Otevřít odkaz"
+msgstr "_Otvoriť odkaz"
 
 msgid "_Outline"
-msgstr "K_ontury"
+msgstr "_Obrys"
 
 msgid "_Reload"
-msgstr "_Obnovit"
+msgstr "Ob_noviť"
 
 msgid "_Remember password"
-msgstr "Za_pamatovat si heslo"
+msgstr "Za_pamätať si heslo"
 
 msgid "_Search the Web"
-msgstr "_Vyhledat na WWW"
+msgstr "_Vyhľadať na WWW"
 
 msgid "_Show Spelling and Grammar"
-msgstr "_Zobrazit kontrolu pravopisu a gramatiky"
+msgstr "_Zobraziť kontrolu pravopisu a gramatiky"
 
 msgid "activate"
-msgstr "aktivovat"
+msgstr "aktivovať"
 
 msgid "audio element controller"
-msgstr "ovladač prvku zvuku"
+msgstr "ovládač prvku zvuku"
 
 msgid "audio element playback controls and status display"
-msgstr "zobrazení ovládacích prvků a stavu prvku zvuku"
+msgstr "ovládanie prvkov prehrávania zvuku a stavový displej"
 
 msgid "back 30 seconds"
-msgstr "zpět 30 sekund"
+msgstr "naspäť 30 sekund"
 
 msgid "begin playback"
 msgstr "začít přehrávání"
