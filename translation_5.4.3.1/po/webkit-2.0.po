@@ -183,11 +183,11 @@ msgid ""
 "Enables the handling of right-clicks for the creation of the default context "
 "menu"
 msgstr ""
-"Povoluje správu tvorby východzej kontextovej ponuky pri kliknutí pravým "
+"Povoľuje správu tvorby východzej kontextovej ponuky pri kliknutí pravým "
 "tlačidlom"
 
 msgid "Enables the site-specific compatibility workarounds"
-msgstr "Povoľuje riešenie komapatibility specifických stránok"
+msgstr "Povoľuje riešenie komapatibility špecifických stránok"
 
 msgid "Encoding"
 msgstr "Kódovánie"
@@ -235,7 +235,7 @@ msgid "LRO Left-to-right _override"
 msgstr "LRO - _prepisovanie zľava doprava"
 
 msgid "Languages to use for spell checking"
-msgstr "Jazyk, ktorý použiť ku kontrole pravopisu"
+msgstr "Jazyk, ktorý použiť pri kontrole pravopisu"
 
 msgid "Last visited Time"
 msgstr "Čas poslednej návštevy"
@@ -390,7 +390,7 @@ msgid "The User-Agent string used by WebKitGtk"
 msgstr "Reťazec identifikácie prehliadača (User agent), ktorý WebKitGtk použije"
 
 msgid "The Web View that renders the Web Inspector itself"
-msgstr "Zobrazenie WWW, ktoré vykresluje samotné Skúmanie WWW"
+msgstr "Zobrazenie WWW, ktoré vykresľuje samotné skúmanie WWW"
 
 msgid "The alternate title of the history item"
 msgstr "Alternatívny nadpis položky histórie"
@@ -547,7 +547,7 @@ msgid "Whether Java Applet support through <applet> should be enabled"
 msgstr "Či má byť povolená podpora jazyka JavaScript skrz značku <applet>"
 
 msgid "Whether JavaScript can open windows automatically"
-msgstr "či môže JavaScript automaticky otvárať okná"
+msgstr "Či môže JavaScript automaticky otvárať okná"
 
 msgid "Whether background images should be printed."
 msgstr "Či majú byť tlačené aj obrázky na pozadí."
@@ -589,7 +589,7 @@ msgid "Whether to enable offline web application cache"
 msgstr "Či povoliť ukladanie stránok do vyrovnávacej pamäte v móde offline"
 
 msgid "Whether to enable teh XSS auditor"
-msgstr "či povoliť revíziu XSS"
+msgstr "Či povoliť revíziu XSS"
 
 msgid "ZWJ Zero width _joiner"
 msgstr "ZWJ - _spojovač nulovej šírky"
@@ -739,7 +739,7 @@ msgid "return to realtime"
 msgstr "vrátiť sa do reálného času"
 
 msgid "seek movie back 30 seconds"
-msgstr "preskočiť video o 30 sekúnd naspäť"
+msgstr "preskočiť video o 30 sekúnd späť"
 
 msgid "seek quickly back"
 msgstr "rýchly prechod späť"
