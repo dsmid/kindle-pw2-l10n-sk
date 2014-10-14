@@ -661,94 +661,94 @@ msgid "audio element playback controls and status display"
 msgstr "ovládanie prvkov prehrávania zvuku a stavový displej"
 
 msgid "back 30 seconds"
-msgstr "naspäť 30 sekund"
+msgstr "naspäť 30 sekúnd"
 
 msgid "begin playback"
-msgstr "začít přehrávání"
+msgstr "začať prehrávanie"
 
 msgid "check"
 msgstr "kontrola"
 
 msgid "current movie status"
-msgstr "aktuální stav videa"
+msgstr "aktuálny stav videa"
 
 msgid "current movie time in seconds"
-msgstr "čas aktuálního videa v sekundách"
+msgstr "čas aktuálneho videa v sekundách"
 
 msgid "definition"
-msgstr "definice"
+msgstr "definícia"
 
 msgid "elapsed time"
 msgstr "uplynulý čas"
 
 msgid "fast forward"
-msgstr "rychle vpřed"
+msgstr "rýchlo vpred"
 
 msgid "fast reverse"
-msgstr "rychle zpět"
+msgstr "rýchlo späť"
 
 msgid "fullscreen"
 msgstr "celá obrazovka"
 
 msgid "indefinite time"
-msgstr "Nejasný čas"
+msgstr "nevymedzený čas"
 
 msgid "jump"
-msgstr "přeskočit"
+msgstr "preskočiť"
 
 msgid "movie time"
 msgstr "čas videa"
 
 msgid "mute"
-msgstr "ztlumení"
+msgstr "stlmiť"
 
 msgid "mute audio tracks"
-msgstr "ztlumit hudební stopy"
+msgstr "stlmiť hudobné stopy"
 
 msgid "number of seconds of movie remaining"
-msgstr "počet zbývajících vteřin videa"
+msgstr "počet zostávajúcich sekúnd videa"
 
 msgid "pattern mismatch"
-msgstr "vzor nesouhlasí"
+msgstr "vzor nesúhlasí"
 
 msgid "pause"
-msgstr "pozastavit"
+msgstr "pozastaviť"
 
 msgid "pause playback"
-msgstr "pozastavit přehrávání"
+msgstr "pozastaviť prehrávanie"
 
 msgid "play"
-msgstr "přehrát"
+msgstr "prehrať"
 
 msgid "press"
-msgstr "stisknutí"
+msgstr "stlačenie"
 
 msgid "range overflow"
-msgstr "příliš velký rozsah"
+msgstr "príliš veľký rozsah"
 
 msgid "range underflow"
-msgstr "nedostatečně velký rozsah"
+msgstr "nedostatočne veľký rozsah"
 
 msgid "remaining time"
-msgstr "zbývající čas"
+msgstr "zostávajúci čas"
 
 msgid "return streaming movie to real time"
-msgstr "vrátit se v promítání videa do reálného šasu"
+msgstr "vrátiť sa k prehrávaniu videa v reálnom čase"
 
 msgid "return to realtime"
-msgstr "vrátit se do reálného času"
+msgstr "vrátiť sa do reálného času"
 
 msgid "seek movie back 30 seconds"
-msgstr "přeskočit ve videu 30 sekund zpět"
+msgstr "preskočiť video o 30 sekúnd naspäť"
 
 msgid "seek quickly back"
-msgstr "rychlý přechod zpět"
+msgstr "rýchly prechod späť"
 
 msgid "seek quickly forward"
-msgstr "rychlý přechod vpřed"
+msgstr "rychly prechod vpred"
 
 msgid "select"
-msgstr "výběr"
+msgstr "výber"
 
 msgid "status"
 msgstr "stav"
@@ -757,25 +757,25 @@ msgid "term"
 msgstr "výraz"
 
 msgid "too long"
-msgstr "příliš dlouhé"
+msgstr "príliš dlhé"
 
 msgid "type mismatch"
-msgstr "typ nesouhlasí"
+msgstr "typ nesúhlasí"
 
 msgid "uncheck"
-msgstr "zrušení výběru"
+msgstr "zrušiť výber"
 
 msgid "unmute"
-msgstr "zrušit ztlumení"
+msgstr "zrušiť stlmenie"
 
 msgid "unmute audio tracks"
-msgstr "zrušit ztlumení hudebních stop"
+msgstr "zrušiť stlmenie hudobných stôp"
 
 msgid "value missing"
-msgstr "chybějící hodnota"
+msgstr "chýbajúca hodnota"
 
 msgid "video element controller"
-msgstr "ovladač prvku videa"
+msgstr "ovládač zprvku videa"
 
 msgid "video element playback controls and status display"
-msgstr "zobrazení ovládacích prvků a stavu prvku videa"
+msgstr "ovládanie prvkov prehrávania videa a stavový displej"
