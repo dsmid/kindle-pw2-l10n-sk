@@ -1,8 +1,8 @@
-Go To	
-Location {0} · Page {1}	
-Location {0}	
-Search Results ({0,number,integer})	
-Search failed.	
-Searching…	
-Title not yet indexed.	
-{0,number,integer} of {1,number,integer}	
+Go To	Ísť na
+Location {0} · Page {1}	Pozícia {0} · Strana {1}
+Location {0}	Pozícia {0}
+Search Results ({0,number,integer})	Výsledok hľadania ({0,number,integer})
+Search failed.	Hľadanie neúspešné.
+Searching…	Vyhľadávam...
+Title not yet indexed.	Titul nebol zatiaľ indexovaný.
+{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
