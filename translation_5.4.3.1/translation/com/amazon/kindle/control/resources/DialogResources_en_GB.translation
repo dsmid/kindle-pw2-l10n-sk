@@ -1,16 +1,16 @@
-Authors starting with:	
-Cancel	
-Cloud and All Devices	
-Device Time	
-Go To	
-Go	
-Hint	
-Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	
-Remove Sample From	
-Remove This Sample	
-Remove	
-Removing a sample from the Cloud will also remove it from all devices.	
-Select Child	
-Set Automatically	
-This Device	
-Titles starting with:	
+Authors starting with:	Autori začínajúci na:
+Cancel	Zrušiť
+Cloud and All Devices	Všetky zariadenia na spoločný server
+Device Time	Čas zariadenia
+Go To	Ísť na
+Go	Ísť
+Hint	Nápoveda
+Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	Číslo strany (1 to {0, choice, 0#1|1#{0,number,integer}}):
+Remove Sample From	Odstrániť ukážku z
+Remove This Sample	Odstrániť túto ukážku
+Remove	Odstrániť
+Removing a sample from the Cloud will also remove it from all devices.	Odstránenie ukážky zo servera spôsobí jej odstránenie zo všetkých zariadení.
+Select Child	Zvoliť dieťa
+Set Automatically	Nastaviť automaticky
+This Device	Toto zariadenie
+Titles starting with:	Tituly začínajúce na:
