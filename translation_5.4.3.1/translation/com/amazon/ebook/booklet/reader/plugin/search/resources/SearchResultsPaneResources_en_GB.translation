@@ -1,7 +1,7 @@
 Go To	Ísť na
 Location {0} · Page {1}	Pozícia {0} · Strana {1}
 Location {0}	Pozícia {0}
-Search Results ({0,number,integer})	Výsledok hľadania ({0,number,integer})
+Search Results ({0,number,integer})	Výsledok vyhľadávania ({0,number,integer})
 Search failed.	Hľadanie neúspešné.
 Searching…	Vyhľadávam...
 Title not yet indexed.	Titul nebol zatiaľ indexovaný.
