@@ -1,9 +1,9 @@
-Achievements	Výkony
+Achievements	Úspechy
 Activity	Aktivita
 Average Reading Time	Priemerný čas čítania
 Badges	Vyznamenania
 Beat your daily reading goal.~~Congratulations, you’ve read more than your daily reading goal.	Prekonaj svoj denný cieľ čítania.~~Gratulujeme, prečítal si viac, ako bol tvoj denný stanovený cieľ.
-Beat your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	Prekonaj svoj denný cieľ čítania.~~{0, select, false{Pre získanie tohto výkonu sa obráť na rodičov, aby ti stanovili tvoj denný cieľ.} other{Čítaj dnes aspoň {1, plural, =0{{1, number, integer} minút} one{{1, number, integer} minútu} other{{1, number, integer} minút}}.}}
+Beat your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	Prekonaj svoj denný cieľ čítania.~~{0, select, false{Na dosiahnutie tohto výkonu sa obráť na rodičov, aby ti stanovili tvoj denný čitateľský cieľ.} other{Čítaj dnes aspoň {1, plural, =0{{1, number, integer} minút} one{{1, number, integer} minútu} other{{1, number, integer} minút}}.}}
 Books	Knihy
 Bookworm {0,choice,0#|2#({0,number,integer})}	Knihomoľ {0,choice,0#|2#({0,number,integer})}
 Challenges ({0,number,integer})	Výzvy ({0,number,integer})
@@ -12,7 +12,7 @@ Current Month	Aktuálny mesiac
 Day	Deň
 Earned ({0,number,integer})	Získané ({0,number,integer})
 Elite Bookworm {0,choice,0#|2#({0,number,integer})}	Elitný knihomoľ {0,choice,0#|2#({0,number,integer})}
-Finish a book to earn this achievement.	Pre dosiahnutie tohto výkonu dočítaj knihu.
+Finish a book to earn this achievement.	Na dosiahnutie tohto výkonu dočítaj knihu.
 High-Flyer {0,choice,0#|2#({0,number,integer})}	Ambiciózny {0,choice,0#|2#({0,number,integer})}
 Just Getting Started {0,choice,0#|2#({0,number,integer})}	Začiatočník {0,choice,0#|2#({0,number,integer})}
 Kilo-Pages! {0,choice,0#|2#({0,number,integer})}	Hrozná kopa {0,choice,0#|2#({0,number,integer})}
@@ -25,7 +25,7 @@ Progress	Úspech
 Reach your daily reading goal 30 days in a row.~~Youʼve reached your daily reading goal {0, plural, =0{{0, number, integer} days in a row.} one{{0, number, integer} day in a row.} other{{0, number, integer} days in a row.}} {1, plural, =0{Only {1, number, integer} more to go!} one{Only {1, number, integer} more to go!} other{Only {1, number, integer} more to go!}}	Dosiahni svoj denný stanovený cieľ 30 dní po sebe.~~Dosiahol si svoj denný stanovený cieľ {0, plural, =0{{0, number, integer} dní po sebe.} one{{0, number, integer} deň.} other{{0, number, integer} dní po sebe.}} {1, plural, =0{Len {1, number, integer} dní zostáva!} one{Len {1, number, integer} deň zostáva!} other{Len {1, number, integer} dní zostáva!}}
 Reach your daily reading goal 7 days in a row.~~Youʼve reached your daily reading goal {0, plural, =0{{0, number, integer} days in a row.} one{{0, number, integer} day in a row.} other{{0, number, integer} days in a row.}} {1, plural, =0{Only {1, number, integer} more to go!} one{Only {1, number, integer} more to go!} other{Only {1, number, integer} more to go!}}	Dosiahni svoj denný stanovený cieľ 7 dní po sebe.~~Dosiahol si svoj denný stanovený cieľ {0, plural, =0{{0, number, integer} dní po sebe.} one{{0, number, integer} deň.} other{{0, number, integer} dní po sebe.}} {1, plural, =0{Len {1, number, integer} dní zostáva!} one{Len {1, number, integer} deň zostáva!} other{Len {1, number, integer} dní zostáva!}}
 Reach your daily reading goal.~~Congratulations, you’ve reached your daily reading goal.	Dosiahni svoj denný stanovený cieľ.~~Gratulujeme, dosiahol si svoj denný stanovený cieľ.
-Reach your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	Dosiahni svoj denný stanovený cieľ.~~{0, select, false{Pre získanie tohto výkonu sa obráť na rodičov, aby ti stanovili tvoj denný cieľ.} other{Čítaj dnes aspoň {1, plural, =0{{1, number, integer} minút} one{{1, number, integer} minútu} other{{1, number, integer} minút}}.}}
+Reach your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	Dosiahni svoj denný stanovený cieľ.~~{0, select, false{Na dosiahnutie tohto výkonu sa obráť na rodičov, aby ti stanovili tvoj denný čitateľský cieľ.} other{Čítaj dnes aspoň {1, plural, =0{{1, number, integer} minút} one{{1, number, integer} minútu} other{{1, number, integer} minút}}.}}
 Read 1,000 pages.~~Congratulations, you’ve read 1,000 pages.	Čítaj 1000 strán.~~Gratulujeme, prečítal si 1000 strán.
 Read 1,000 pages.~~Youʼve read {0, number, integer} of 1,000 pages.	Čítaj 1000 strán.~~Prečítal si {0, number, integer} z 1000 strán.
 Read 10,000 pages.~~Congratulations, you’ve read 10,000 pages.	Čítaj 10000 strán.~~Gratulujeme, prečítal si 10000 strán.
