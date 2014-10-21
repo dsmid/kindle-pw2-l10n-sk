@@ -1,12 +1,12 @@
-Cancel	
-Date of Birth	
-Enter your childʼs name in their profile to keep track of their progress and achievements.	
-FreeTime Profile	
-FreeTime Profile: {0}	
-Gender	
-Improve Kindle book recommendations for your child by entering their date of birth.	
-Improve Kindle book recommendations for your child by entering their gender.	
-In the next step you can select books from your library to add to your childʼs library.	
-Name	
-Next	
-Step {0,number,integer}	
+Cancel	Zrušiť
+Date of Birth	Dátum narodenia
+Enter your childʼs name in their profile to keep track of their progress and achievements.	Aby ste mohli sledovať priebeh a úspechy vášho dieťaťa, vložte do profilu jeho meno.
+FreeTime Profile	FreeTime profil
+FreeTime Profile: {0}	FreeTime profil: {0}
+Gender	Pohlavie
+Improve Kindle book recommendations for your child by entering their date of birth.	Pre presnejšie určenie doporučených kníh pre vaše dieťa, zadajte jeho dátum narodenia.
+Improve Kindle book recommendations for your child by entering their gender.	Pre presnejšie určenie doporučených kníh pre vaše dieťa, zadajte jeho pohlavie. 
+In the next step you can select books from your library to add to your childʼs library.	V ďalšom kroku budete môcť do knižnice vášho dieťaťa vložiť knihy.
+Name	Meno
+Next	Ďalší
+Step {0,number,integer}	Krok {0,number,integer
