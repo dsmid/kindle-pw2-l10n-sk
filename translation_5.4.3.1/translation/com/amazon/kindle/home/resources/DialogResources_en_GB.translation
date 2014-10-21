@@ -5,4 +5,4 @@ Edit Pronunciation	Upraviť výslovnosť
 The collection name that you entered already exists. Please enter a different name.	Názov kolekcie už existuje. Zvolte prosím iný názov.
 Title Pronunciation	Výslovnosť titulu
 Title	Titul
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {{0,number,integer} položiek}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položiek {0,number,integer}}}
