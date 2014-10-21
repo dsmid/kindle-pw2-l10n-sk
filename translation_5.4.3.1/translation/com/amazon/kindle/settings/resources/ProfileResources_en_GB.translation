@@ -1,21 +1,21 @@
-Access Achievements	
-Add Items	
-All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?	
-All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?	
-Cancel	
-Daily Reading Goal	
-Date of Birth	
-Delete Profile	
-Delete	
-Finish	
-First Name	
-Gender	
-Ignore	
-Let your child see their Achievement Reports.	
-No Content	
-Set how many minutes your child should read for each day.	
-Unrestricted Access to Wikipedia	
-{0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	
-{0, select, male {Boy} female {Girl} other {Boy}}	
-{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	
-{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	
+Access Achievements	Prístup k úspechom
+Add Items	Pridať položky
+All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?	Všetky úspechy a výkony sa vymazaním stratia. Profil taktiež nebude dostupný na žiadnom inom zariadení. Ste si istý, že chcete vymazať profil {0, select, male {<em>{1}</em>} female {<em>{1}</em>} other {<em>{1}</em>}}?
+All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?	Všetky úspechy a výkony sa odstránením stratia, budú však naďalej dostupné na iných zariadeniach. Ste si istý, že chcete z tohto zariadenia vymazať profil <em>{0}</em>?
+Cancel	Zrušiť
+Daily Reading Goal	Denný čitateľský cieľ
+Date of Birth	Dátum narodenia
+Delete Profile	Vymazať profil
+Delete	Vymazať
+Finish	Dokončiť
+First Name	Meno
+Gender	Pohlavie
+Ignore	Ignorovať
+Let your child see their Achievement Reports.	Dovoliť vášmu dieťaťu vidieť jeho tabuľku úspechov.
+No Content	Žiadny obsah
+Set how many minutes your child should read for each day.	Nastaviť, koľko minút by malo vaše dieťa denne čítať.
+Unrestricted Access to Wikipedia	Neblokovaný prístup na Wikipédiu
+{0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	{0, plural, =0 {{0,number,integer} kníh} one {{0,number,integer} kniha} other {{0,number,integer} kníh}}
+{0, select, male {Boy} female {Girl} other {Boy}}	{0, select, male {Chlapec} female {Dievča} other {Chlapec}}
+{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	{0, select, male {Nepridali ste žiadne položky do účtu FreeTime užívateľa {1}.} female {Nepridali ste žiadne položky do účtu FreeTime užívateľky {1}.} other {Nepridali ste žiadne položky do účtu FreeTime užívateľa {1}.}}
+{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	{0, select, male {Knižnica užívateľa {1}} female {Knižnica užívateľky {1}} other {Knižnica užívateľa {1}}}
