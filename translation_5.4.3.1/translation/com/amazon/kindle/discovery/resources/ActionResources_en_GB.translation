@@ -10,4 +10,4 @@ Search Store	Vyhľadávať v obchode
 View Book Activity	Zobraziť aktivitu knihy
 View Reviews	Zobraziť hodnotenia
 View in Store	Zobraziť v obchode Kindle
-{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	{0,plural,=0 {Komentár} one {Komentár ({0,number,integer})} other {Komentáre ({0,number,integer})}}
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	{0,plural,=0 {Komentár} one {Komentár ({0,number,integer})} other {Komentárov ({0,number,integer})}}
