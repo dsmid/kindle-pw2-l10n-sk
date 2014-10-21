@@ -5,18 +5,18 @@ Date: 	Dátum:
 Delete	Vymazať
 Edit Child Profiles	Upraviť profil dieťaťa
 Edit Pronunciation	Upraviť výslovnosť
-In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Na serveri: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {{0,number,integer} položiek} }
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Na serveri: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položiek {0,number,integer}} }
 Learn more	Viac informácií
 Manage FreeTime Items	Spravovať položky FreeTime
 Narrator: 	Komentátor: 
-On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	V zariadení: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {{0,number,integer} položiek} }
+On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	V zariadení: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položiek {0,number,integer}} }
 Rename	Premenovať
 Show Only in Collections View	Zobraziť len v kolekcii
 Show in All Views	Zobrazovať vo všetkých náhľadoch
-Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Celkom: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {{0,number,integer} položiek} }
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Celkom: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položiek {0,number,integer}} }
 Turn Off FreeTime	Vypnúť Kindle FreeTime
 Turn Off Vocabulary Builder	Vypnúť užívateľský slovník
 Unknown	Neznáme
 View Achievements	Zobraziť úspechy
-{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {Na učenie {0,number,integer} slov} one {Na učenie {0,number,integer} slovo} other {Na učenie {0,number,integer} slov} }
-{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Zapamätaných {0,number,integer} slov} one {Zapamätané {0,number,integer} slovo} other {Zapamätaných {0,number,integer} slov} }
+{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {Na učenie {0,number,integer} slov} one {Na učenie {0,number,integer} slovo} other {Slov na učenie {0,number,integer}} }
+{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Zapamätaných {0,number,integer} slov} one {Zapamätané {0,number,integer} slovo} other {Zapamätaných slov {0,number,integer}} }
