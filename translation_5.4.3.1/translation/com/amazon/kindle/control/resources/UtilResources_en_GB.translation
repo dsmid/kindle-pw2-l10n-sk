@@ -40,13 +40,13 @@ This collection is synced across all of your devices and will be deleted on all 
 This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Táto kolekcia bude zobrazená iba v náhľade kolekcií. Ak ju chcete nechať zobraziť, v menu Moje položky vyberte Kolekcie. Ak kliknete a podržíte prst na kolekcii, pre túto kolekciu budete môcť nastaviť zobrazenie.
 Turn Off FreeTime	Vypnúť Kindle FreeTime
 Turn Off	Vypnúť
-Turn On Wireless?	Zapnúť bezdrátové pripojenie?
+Turn On Wireless?	Zapnúť bezdrôtové pripojenie?
 Unable to Sync	Nepodarilo sa synchronizovať
 Vocabulary Builder Turned Off	Užívateľský slovník vypnutý
 Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, and Vocabulary Builder.	Užívateľský slovník bol deaktivovaný a už sa viac nebude zobrazovať na hlavnej obrazovke. Ak ho chcete zapnúť, vojdite do Nastavení, Možnosti čítania a Užívateľský slovník.
 Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	Užívateľský slovník vám pomáha počas čítania s výukou nových slov.~~~~Slová, ktoré počas čítania vyhľadáte v slovníku sa tu automaticky zobrazia. Môžte si ich nechať pozrieť ako pomocné kartičky, alebo zobraziť ako boli použité v knihe.
-Wi-Fi Required	Vyžadované bezdrátové pripojenie
-Wi-Fi required	Vyžadované bezdrátové pripojenie
+Wi-Fi Required	Vyžadované bezdrôtové pripojenie
+Wi-Fi required	Vyžadované bezdrôtové pripojenie
 You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	Momentálne nie ste pripojený do siete a vaša kolekcia nebude aktualizovaná, pokiaľ sa nepripojíte na internet.~~~~Chcete sa teraz pripojiť?
 You have added items to this collection that will not be synced with the Cloud.	Pridali ste položky do kolekcie, ktorá nebude synchronizovaná s cloud serverom.
 connection required	vyžadované pripojenie
@@ -72,7 +72,7 @@ pending	čaká sa
 {0}~~~~Are you sure you want to delete this receipt?	{0}~~~~Ste si istý, že chcete vymazať tento recept?
 {0}~~~~Are you sure you want to delete this sample?	{0}~~~~Ste si istý, že chcete vymazať túto ukážku?
 {0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0}~~~~Táto položka bude premiestnená na cloud server, avšak všetky údaje aplikácie alebo nastavenia, ktoré sú s ňou spojené budú nenávratne vymazané. Prajete si pokračovať?
- Wi-Fi required	 nutné bezdrátové pripojenie
+ Wi-Fi required	 nutné Wi-Fi pripojenie
  connection required	 vyžadované pripojenie
  downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	 sťahovanie - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
  error	 chyba
