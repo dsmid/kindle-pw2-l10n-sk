@@ -1,2 +1,2 @@
-Buy ▶	
-Read for Free time remaining: {0,plural,=0 {Expired} one {<1 min.} other {{0,number,integer} mins.}}	
+Buy ▶	Kúpiť ▶
+Read for Free time remaining: {0,plural,=0 {Expired} one {<1 min.} other {{0,number,integer} mins.}}	Zostávajúci čas bezplatného čítania: {0,plural,=0 {vypršal} one {<1 min.} other {{0,number,integer} min.}}
