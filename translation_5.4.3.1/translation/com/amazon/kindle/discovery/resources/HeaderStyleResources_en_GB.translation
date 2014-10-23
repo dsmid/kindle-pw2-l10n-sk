@@ -9,43 +9,43 @@ Currently Reading ({0})	Momentálne číta ({0})
 Delete Comment	Vymazať komentár
 Delete	Vymazať
 Edit	Upraviť
-Find Readers to Follow 	
-Follow	
-Followers ({0})	
-Followers	
-Following ({0})	
-Following Reviews	
-Following	
-Friends ({0})	
-Friends	
-Friendsʼ Reviews	
-More…	
-My Recent Updates	
-My Shelves	
-Read ({0,number,integer})	
-Read ({0})	
-Recent Updates by {0}	
-Remove Friend	
-See More 	
-Share	
-Shelved Books ({0,number,integer})	
-Shelved Books ({0})	
-Stop Following	
-Suggested	
-Updates	
-Want to Read ({0,number,integer})	
-Want to Read ({0})	
-Want to Read	
-{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}	
-{0,plural,=0 {Comment} one {{0,number,###0} Comment} other {{0,number,###0} Comments}}	
-{0,plural,=0 {{0,number,###0} days} one {{0,number,###0} day} other {{0,number,###0} days}} ago	
-{0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}	
-{0,select, liked {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}	
-{0,select, liked {{1,choice,0#✓ Like ({1,number,integer})|100#✓ Like (99+)}} other {{1,choice,0#Like|1#Like ({1,number,integer})|100#Like (99+)}}}	
-{0,select,unrated {wrote a review} other {rated {1}}}	
-✓ Currently Reading	
-✓ Following	
-✓ Friend	
-✓ Read	
-✓ Request Sent	
-✓ Want to Read	
+Find Readers to Follow 	Nájsť čitateľov a sledovať 
+Follow	Sledovať
+Followers ({0})	Sledujúci ({0})
+Followers	Sledujúci
+Following ({0})	Sledovaní ({0})
+Following Reviews	Hodnotenia sledovaných
+Following	Sledovaní
+Friends ({0})	Priatelia ({0})
+Friends	Priatelia
+Friendsʼ Reviews	Hodnotenia priateľov
+More…	Viac…
+My Recent Updates	Moje nedávne aktualizácie
+My Shelves	Moje police
+Read ({0,number,integer})	Prečítané ({0,number,integer})
+Read ({0})	Prečítané ({0})
+Recent Updates by {0}	Nedávne aktualizácie od {0}
+Remove Friend	Odstrániť priateľa
+See More 	Dozvedieť sa viac 
+Share	Zdieľať
+Shelved Books ({0,number,integer})	Knihy na polici ({0,number,integer})
+Shelved Books ({0})	Knihy na polici ({0})
+Stop Following	Prestať sledovať
+Suggested	Navrhovaný
+Updates	Aktualizácie
+Want to Read ({0,number,integer})	Chcieť čítať ({0,number,integer})
+Want to Read ({0})	Chcieť čítať ({0})
+Want to Read	Chcieť čítať
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}	{0,plural,=0 {komentár} one {Komentár ({0,number,integer})} other {{0,choice,0#Komentárov ({0,number,integer})|100#Komentárov (99+)}}}
+{0,plural,=0 {Comment} one {{0,number,###0} Comment} other {{0,number,###0} Comments}}	{0,plural,=0 {komentár} one {{0,number,###0} komentár} other {Komentárov {0,number,###0}}}
+{0,plural,=0 {{0,number,###0} days} one {{0,number,###0} day} other {{0,number,###0} days}} ago	Pred {0,plural,=0 {{0,number,###0} dňami} one {{0,number,###0} dňom} other {{0,number,###0} dňami}}
+{0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}	{0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}
+{0,select, liked {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}	{0,select, sa páči {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}
+{0,select, liked {{1,choice,0#✓ Like ({1,number,integer})|100#✓ Like (99+)}} other {{1,choice,0#Like|1#Like ({1,number,integer})|100#Like (99+)}}}	{0,select, sa páči {{1,choice,0#✓ Páči ({1,number,integer})|100#✓ Páči (99+)}} other {{1,choice,0#Like|1#Páči ({1,number,integer})|100#Páči (99+)}}}
+{0,select,unrated {wrote a review} other {rated {1}}}	{0,select,unrated {napísal hodnotenie} other {ohodnotil {1}}}
+✓ Currently Reading	✓ Rozčítané
+✓ Following	✓ Sledovaní
+✓ Friend	✓ Priateľ
+✓ Read	✓ Prečítané
+✓ Request Sent	✓ Žiadosť odoslaná
+✓ Want to Read	✓ Chcieť čítať
