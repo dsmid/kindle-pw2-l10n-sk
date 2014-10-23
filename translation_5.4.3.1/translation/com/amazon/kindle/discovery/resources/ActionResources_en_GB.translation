@@ -1,13 +1,13 @@
-Buy…	
-Cancel	
-Delete Activity	
-Delete	
-Get Sample or Buy...	
-If others have commented on this update, it will not be removed from their activity feed. Are you sure you want to delete this update?	
-Read Now	
-Refresh	
-Search Store	
-View Book Activity	
-View Reviews	
-View in Store	
-{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	
+Buy…	Kúpiť...
+Cancel	Zrušiť
+Delete Activity	Vymazať aktivitu
+Delete	Vymazať
+Get Sample or Buy...	Získať ukážku alebo kúpiť...
+If others have commented on this update, it will not be removed from their activity feed. Are you sure you want to delete this update?	Ak už niekto aktualizoval tento komentár, z ich vlákna aktivít však odstránený nebude. Ste si istý že chcete vymazať tento komentár?
+Read Now	Prečítať teraz
+Refresh	Obnoviť
+Search Store	Vyhľadávať v obchode
+View Book Activity	Zobraziť aktivitu knihy
+View Reviews	Zobraziť hodnotenia
+View in Store	Zobraziť v obchode Kindle
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	{0,plural,=0 {Komentár} one {Komentár ({0,number,integer})} other {Komentárov ({0,number,integer})}}

@@ -1,11 +1,11 @@
-Buy Now	
-Buy for {0}	
-Download Error	
-Downloading - {0,number,percent}	
-Downloading	
-Network connection required. Tap here to connect.	
-Problem Cancelling Purchase	
-Purchase Cancelled	
-Thank you for your purchase	
-There was a problem cancelling your purchase. To check the status of your purchase, go to {0}.	
-Your purchase has been cancelled. To view the status of your orders, go to {0}.	
+Buy Now	Zakúpiť teraz
+Buy for {0}	Zakúpiť pre {0}
+Download Error	Chyba počas sťahovania
+Downloading - {0,number,percent}	Sťahovanie - {0,number,percent}
+Downloading	Sťahovanie
+Network connection required. Tap here to connect.	Vyžaduje sa internetové pripojenie. Tu kliknite pre pripojenie.
+Problem Cancelling Purchase	Nastal problém počas rušenia zakúpenia
+Purchase Cancelled	Zakúpenie zrušené
+Thank you for your purchase	Ďakujeme za zakúpenie
+There was a problem cancelling your purchase. To check the status of your purchase, go to {0}.	Počas rušenia zakúpenia sa vyskytol problém. Stav vášho zakúpenia zistíte tu {0}.
+Your purchase has been cancelled. To view the status of your orders, go to {0}.	Zakúpenie bolo zrušené. Stav vašej objednávky zistíte tu {0}.

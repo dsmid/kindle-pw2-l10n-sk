@@ -1,16 +1,16 @@
-Cancel	
-Change Passcode	
-Confirm New Passcode	
-Confirm Passcode	
-Create Passcode	
-Device Passcode	
-Enter Current Passcode	
-Enter New Passcode	
-Enter Passcode	
-Incorrect Passcode	
-Passcode Invalid	
-Passcodes Do Not Match	
-Please enter a valid passcode.	
-Please try again.	
-Turn Off Passcode	
-Your passcode must contain at least {0,number,integer} digits. Please try again.	
+Cancel	Zrušiť
+Change Passcode	Zmena kódu
+Confirm New Passcode	Potvrdte nový kód
+Confirm Passcode	Potvrďte kód
+Create Passcode	Vytvoriť kód
+Device Passcode	Kód zariadenia
+Enter Current Passcode	Vložte aktuálny kód
+Enter New Passcode	Vložte nový kód
+Enter Passcode	Vložte kód
+Incorrect Passcode	Nesprávny kód
+Passcode Invalid	Kód neplatný
+Passcodes Do Not Match	Kódy sa nezhodujú
+Please enter a valid passcode.	Vložte prosím platný kód.
+Please try again.	Skúste to znovu.
+Turn Off Passcode	Vypnúť ochranu kódom
+Your passcode must contain at least {0,number,integer} digits. Please try again.	Váš kód musí obsahovať aspoň {0,number,integer} číslice. Skúste to znovu.

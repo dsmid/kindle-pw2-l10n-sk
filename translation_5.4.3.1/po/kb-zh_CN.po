@@ -13,7 +13,7 @@ msgstr ""
 
 
 msgid "Simplified-Chinese"
-msgstr "Čínská (zjednodušená)"
+msgstr "Čínska (zjednodušená)"
 # msgstr "Chinese (Simplified)"
 
 

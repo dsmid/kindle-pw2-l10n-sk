@@ -1,11 +1,11 @@
 100pt	
-All Text	
-Baidu Baike	
-Baidu	
-Dictionary	
-Douban	
-Google	
-Kindle Store	
-My Items	
-Web Address	
-Wikipedia	
+All Text	Všetok text
+Baidu Baike	Baidu Baike
+Baidu	Baidu
+Dictionary	Slovník
+Douban	Douban
+Google	Google
+Kindle Store	Obchod Kindle
+My Items	Moje položky
+Web Address	Webové adresy
+Wikipedia	Wikipédia

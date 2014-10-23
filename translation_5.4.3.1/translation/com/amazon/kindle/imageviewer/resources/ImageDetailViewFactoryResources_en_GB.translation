@@ -1,4 +1,4 @@
-Delete This Image Folder	
-Delete This Image Package	
-Delete This Image	
-{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	
+Delete This Image Folder	Vymazať túto zložku s obrázkami
+Delete This Image Package	Vymazať tento balík obrázkov
+Delete This Image	Vymazať tento obrázok
+{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	{0,choice,0#Žiadne položky | 1#{0,number,integer} položka | 2#{0,number,integer} položky}

@@ -1,5 +1,5 @@
-See Definition	
-See Usage	
-Words mastered: {0}	
-{0,select,learning {Mark as Learning} mastered {Mark as Mastered} other {}}	
- Exit Flashcards	
+See Definition	Pozri definíciu
+See Usage	Pozri použitie
+Words mastered: {0}	Zapamätaných slov: {0}
+{0,select,learning {Mark as Learning} mastered {Mark as Mastered} other {}}	{0,select,learning {Označiť na učenie} mastered {Označiť ako zapamätané} other {}}
+ Exit Flashcards	 Ukončiť kartičky

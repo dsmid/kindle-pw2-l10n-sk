@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "todo.message.checking"
-msgstr "Kontroluji..."
+msgstr "Kontrolujem..."
 
 msgid "todo.message.nonewitems"
-msgstr "Žádné nové položky"
+msgstr "Žiadne nové položky"
