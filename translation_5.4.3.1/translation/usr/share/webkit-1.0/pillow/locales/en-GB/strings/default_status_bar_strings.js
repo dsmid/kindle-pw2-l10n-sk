@@ -1,3 +1,3 @@
-Connected	
-Connecting	
- · 	
+Connected	Pripojený
+Connecting	Pripájam
+ · 	 · 
