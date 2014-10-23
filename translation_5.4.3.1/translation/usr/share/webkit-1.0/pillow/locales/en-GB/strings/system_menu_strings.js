@@ -1,2 +1,2 @@
-Settings	
-Shop in Kindle Store	
+Settings	Nastavenia
+Shop in Kindle Store	Nakupovať v obchode Kindle
