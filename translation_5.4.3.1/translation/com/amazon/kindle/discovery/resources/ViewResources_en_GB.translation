@@ -1,45 +1,45 @@
-+ Add Friend	
-+ Follow	
-About Me	
-Add Amazon Books to Goodreads	
-Add Friends 	
-Add a comment…	
-Add physical and digital Amazon book purchases to Goodreads by rating them or adding them to a shelf.	
-Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	
-By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreadsʼ Terms of Service and Privacy Policy.	
-By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf.	
-By {0}	
-Cancel Request	
-Currently Reading ({0,number,integer})	
-Currently Reading ({0})	
-Currently Reading	
-Done	
-Edit About Me (modified) 	
-Edit About Me 	
-Edit Profile	
-Enter your full name or your first name here. This will be the name that appears on your public Amazon and Goodreads profiles.	
-Facebook E-mail	
-Facebook Password	
-Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	
-Followers ({0})	
-Following ({0})	
-Friends ({0})	
-Get Started	
-Goodreads E-mail	
-Goodreads Password	
-Hide Password	
-Loading…	
-Mark as:	
-My Rating	
-Name for Friends	
-Name	
-Next	
-Public Name	
-Rate this Book	
-Rate this book	
-Read ({0,number,integer})	
-Read ({0})	
-Read Now	
++ Add Friend	+ Pridať priateľa
++ Follow	+ Sledovať
+About Me	O mne
+Add Amazon Books to Goodreads	Pridať do Goodreads knihu z Amazonu
+Add Friends 	Pridať priateľov 
+Add a comment…	Pridať komentár…
+Add physical and digital Amazon book purchases to Goodreads by rating them or adding them to a shelf.	Pridajte do Goodreads papierové a digitálne knihy zakúpené na Amazone tak, že ich ohodnotíte alebo pridáte na policu.
+Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	Ste si istý, že chcete odstrániť {0} zo zoznamu vašich priateľov? Vaši priatelia nebudú upovedomení, že ste si ich odstránili.
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreadsʼ Terms of Service and Privacy Policy.	Pripojením umožníte službe Goodreads pristúpiť k vášmu verejnému profilu, zozname priateľov, e-mailovej adrese a like-ov na Facebooku. Dodatočne, služba Goodreads bude môcť vo vašom mene odosielať príspevky vašim priateľom. Pokračovaním súhlasíte s podmienkami používania a ochrany súkromia služby Goodreads.
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf.	Pripojením umožníte službe Goodreads pristúpiť k vášmu verejnému profilu, zozname priateľov, e-mailovej adrese a like-ov na Facebooku. Dodatočne, služba Goodreads bude môcť vo vašom mene odosielať príspevky vašim priateľom.
+By {0}	Od {0}
+Cancel Request	Zrušiť požiadavku
+Currently Reading ({0,number,integer})	Práve číta ({0,number,integer})
+Currently Reading ({0})	Práve číta ({0})
+Currently Reading	Práve číta
+Done	Hotovo
+Edit About Me (modified) 	Upraviť O mne (modifikované) 
+Edit About Me 	Upraviť O mne 
+Edit Profile	Upraviť profil
+Enter your full name or your first name here. This will be the name that appears on your public Amazon and Goodreads profiles.	Napíšte vaše celé meno alebo len prvé meno. Toto meno sa zobrazí vo vašom verejnom profile na Amazone a Goodreads.
+Facebook E-mail	Facebook E-mail
+Facebook Password	Facebook heslo
+Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Sledujte týchto významných čitateľov a prezerajte si ich hodnotenia a odporúčania{0,select, with_connect_message {, alebo sa pripojte na našich priateľov na Facebooku.} other {.}}
+Followers ({0})	Sledujúci ({0})
+Following ({0})	Sledovaní ({0})
+Friends ({0})	Priatelia ({0})
+Get Started	Začíname
+Goodreads E-mail	Goodreads E-mail
+Goodreads Password	Goodreads heslo
+Hide Password	Skryť heslo
+Loading…	Načítavam…
+Mark as:	Označiť ako:
+My Rating	Mohe hodnotenie
+Name for Friends	Názov pre priateľov
+Name	Názov
+Next	Ďalší
+Public Name	Verejné meno
+Rate this Book	Ohodnotiť túto knihu
+Rate this book	Ohodnotiť túto knihu
+Read ({0,number,integer})	Prečítané ({0,number,integer})
+Read ({0})	Prečítané ({0})
+Read Now	Čítať teraz
 Read	
 Readers to Follow	
 Remove Friend	
