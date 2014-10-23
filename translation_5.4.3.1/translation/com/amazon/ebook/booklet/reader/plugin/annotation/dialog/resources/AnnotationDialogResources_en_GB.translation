@@ -1,16 +1,16 @@
-Chapter	
-Delete	
-Edit	
-Go to Location	
-Note	
-Notes	
-Popular	
-Public	
-Share	
-View	
-You do not have any notes or highlights.	
-Yours	
-{0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}	
-{0,select, false{Page {1}} true{Loc {1}} other {}}	
-{0}’s Highlight	
-{0}’s Note	
+Chapter	Kapitola
+Delete	Vymazať
+Edit	Upraviť
+Go to Location	Ísť na pozíciu
+Note	Poznámka
+Notes	Poznámky
+Popular	Populárne
+Public	Verejné
+Share	Zdieľať
+View	Ukážka
+You do not have any notes or highlights.	Nemáte žiadne poznámky ani zvýraznené texty.
+Yours	Vaše
+{0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}	{0,plural,=0 {} =1 {1 zvýraznenie} other {Zvýraznenia: {0,number,integer}}}
+{0,select, false{Page {1}} true{Loc {1}} other {}}	{0,select, false{Strana {1}} true{Poz {1}} other {}}
+{0}’s Highlight	Zvýraznenie od {0}
+{0}’s Note	Poznámka od {0}

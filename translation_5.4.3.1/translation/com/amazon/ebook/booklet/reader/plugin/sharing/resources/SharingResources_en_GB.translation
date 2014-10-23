@@ -1,26 +1,26 @@
-A link to the book will be included with your message.	
-A link to the passage will be included with your message.	
-Cancel	
-Clipping Error	
-Close	
-Communication Error	
-Enter Your Message	
-Invalid Social Networks	
-Manage	
-Message Shared	
-One or more of the social networks registered on your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select Continue Reading to return to this item.	
-Register	
-Share	
-Sharing Failed	
-Sharing Not Supported	
-Sharing Unavailable	
-Social Networks Not Registered	
-The sharing service encountered a communication error. Please try again later.	
-The sharing service encountered an unrecoverable error. Sharing cancelled.	
-The sharing service is currently unavailable. Please try again later.	
-This content does not support sharing.	
-Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	
-Unable to share. You have reached the clipping limit for this item set by the publisher.	
-Unable to share. You have reached the clipping limit for this item.	
-Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue Reading to return to this item.	
-{0,select, left {{1,plural, =0 {No characters left} one {{1} character left} other {{1} characters left}}} over {{1,plural, one {{1} character over} other {{1} characters over}}} other {}}	
+A link to the book will be included with your message.	Odkaz na knihu bude zahrnutý do vašej správy.
+A link to the passage will be included with your message.	Odkaz na úryvok bude zahrnutý do vašej správy. 
+Cancel	Zrušiť
+Clipping Error	Chyba pripnutia
+Close	Zatvoriť
+Communication Error	Chyba komunikácie
+Enter Your Message	Napíšte vašu správu
+Invalid Social Networks	Neplatná sociálna sieť
+Manage	Spravovať
+Message Shared	Správa bola zdieľaná
+One or more of the social networks registered on your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select Continue Reading to return to this item.	Minimálne jedna zo sociálnych sietí registrovaná vo vašom Kindli nie je správne nakonfigurovaná. Zvolením položky Spravovať budete presmerovaní na webovú stránku Správy vašich sociálnych sietí (Manage Your Social Networks), kde môžte vložiť informácie o účtoch. Po dokončení zmien sa vráťte na túto položku voľbou Pokračovať v čítaní (Continue Reading).
+Register	Registrácia
+Share	Zdieľať
+Sharing Failed	Zdieľanie neúspešné
+Sharing Not Supported	Zdieľanie nie je podporované
+Sharing Unavailable	Zdieľanie nedostupné
+Social Networks Not Registered	Sociálne siete nie sú registrované
+The sharing service encountered a communication error. Please try again later.	Pri komunikácii so službou zdieľania nastala chyba. Skúste to prosím neskôr.
+The sharing service encountered an unrecoverable error. Sharing cancelled.	Pri komunikácii so službou zdieľania nastala neobnoviteľná chyba. Zdieľanie zrušené.
+The sharing service is currently unavailable. Please try again later.	Služba zdieľania je momentálne nedostupná. Skúste to prosím neskôr.
+This content does not support sharing.	Obsah nepodporuje zdieľanie.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	Nie je možné zdieľať. Dosiahli ste limit pripnutí stanovený vydavateľom, {0}.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	Nie je možné zdieľať. Dosiahli ste limit pripnutí stanovený vydavateľom.
+Unable to share. You have reached the clipping limit for this item.	Nie je možné zdieľať. Dosiahli ste stanovený počet pripnutí.
+Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue Reading to return to this item.	Váš Kindle nie je registrovaný so žiadnou sociálnou sieťou. Voľbou Registrovať budete presmerovaní na stránku Spravovať vaše sociálne siete (Manage Your Social Networks), kde môžte vložiť informácie o účtoch. Po dokončení registrácie sa vráťte na túto položku voľbou Pokračovať v čítaní (Continue Reading).
+{0,select, left {{1,plural, =0 {No characters left} one {{1} character left} other {{1} characters left}}} over {{1,plural, one {{1} character over} other {{1} characters over}}} other {}}	{0,select, left {{1,plural, =0 {Nezostáva žiadny znak} one {{1} zostávajúci znak} other {{1} zostávajúcich znakov}}} over {{1,plural, one {{1} znak navyše} other {{1} znakov navyše}}} other {}}

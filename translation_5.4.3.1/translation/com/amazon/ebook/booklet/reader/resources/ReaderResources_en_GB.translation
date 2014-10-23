@@ -1,90 +1,90 @@
-Add Note	
-Already at furthest read location.	
-Beginning	
-Book Description	
-Buy This Book Now	
-Cancel	
-Close	
-Contrast	
-Cover	
-Darkest	
-Delete Note	
-Delete	
-Edit Note	
-End	
-Enter a location ({0} - {1})	
-Enter a page (1 - {0}) or location ({1} - {2})	
-Enter a page (1 - {0})	
-Enter a page ({0}) or location ({1} - {2})	
-Enter a page ({0})	
-Enter a page or location ({1} - {2})	
-Enter a page	
-Enter password: 	
-Fonts	
-Go To	
-Go to Page or Location	
-Go to...	
-Highlight	
-Incorrect Password	
-Incorrect password. Please try again.	
-Lightest	
-Line spacing	
-Loc {0} of {1}	
-Loc {0}	
-Location	
-Lock Rotation	
-Low Memory	
-Margins	
-More Options	
-More	
-Normal	
-Note	
-PDF Display Settings	
-Page 	
-Page or Location	
-Page {0} of {1}	
-Page {0}	
-Password-Protected	
-Publisher Font	
-Retrieving furthest page read...	
-Save	
-Settings	
-Share	
-Shared Notes & Highlights	
-Shop in Kindle Store	
-Submit	
-Sync Results	
-Sync to Furthest Page Read	
-Sync	
-Table of Contents	
-Table of Contents...	
-There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	
-This PDF is password-protected.	
-To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	
-Unable to Sync	
-Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	
-Unlock Rotation	
-View Note	
-View in Store	
-You are currently at location {0}. The furthest read location across all your devices is {2}. Go to that location?	
-You are currently at location {0}. The furthest read location is {2} from "{4}" at {5,time,short} {6}. Go to that location?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is {2}, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is {2}, {3,number,percent} into the book. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book across all your devices. Go to the furthest place read?	
-You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	
-You are currently on page {0}, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on page {0}, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	
-You are currently on page {0}. The furthest page read is {2}, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on page {0}. The furthest read page across all your devices is {2}. Go to that page?	
-You are currently on page {0}. You have read further on this page, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	
-You are currently on page {0}. You have read further than this page across all your devices. Go to the furthest place read?	
-darker	
-darkest	
-default	
-lighter	
-lightest	
-on {7,date,long}	
-today	
-yesterday	
+Add Note	Pridať poznámku
+Already at furthest read location.	Už sa nachádzate na najvzdialenejšej pozícii.
+Beginning	Začiatok
+Book Description	Popis knihy
+Buy This Book Now	Zakúpiť túto knihu
+Cancel	Zrušiť
+Close	Zatvoriť
+Contrast	Kontrast
+Cover	Obálka
+Darkest	Najtmavší
+Delete Note	Vymazať poznámku
+Delete	Vymazať
+Edit Note	Upraviť poznámku
+End	Koniec
+Enter a location ({0} - {1})	Ísť na pozíciu ({0} - {1})
+Enter a page (1 - {0}) or location ({1} - {2})	Ísť na stranu (1 - {0}) alebo pozíciu ({1} - {2})
+Enter a page (1 - {0})	Ísť na stranu (1 - {0})
+Enter a page ({0}) or location ({1} - {2})	Ísť na stranu ({0}) alebo pozíciu ({1} - {2})
+Enter a page ({0})	Ísť na stranu ({0})
+Enter a page or location ({1} - {2})	Ísť na stranu alebo pozíciu ({1} - {2})
+Enter a page	Ísť na stranu
+Enter password: 	Vložte heslo:
+Fonts	Písma
+Go To	Ísť na
+Go to Page or Location	Ísť na stranu alebo pozíciu
+Go to...	Ísť na...
+Highlight	Zvýrazniť
+Incorrect Password	Neplatné heslo
+Incorrect password. Please try again.	Neplatné heslo. Skúste to prosím znovu.
+Lightest	Najsvetlejší
+Line spacing	Riadkovanie
+Loc {0} of {1}	Poz {0} z {1}
+Loc {0}	Poz {0}
+Location	Pozícia
+Lock Rotation	Uzamknúť otáčanie
+Low Memory	Nedostatok pamäte
+Margins	Okraje
+More Options	Viac možností
+More	Viac
+Normal	Normálny
+Note	Poznámka
+PDF Display Settings	Nastavenie zobrazenia PDF
+Page 	Strana
+Page or Location	Strana alebo pozícia
+Page {0} of {1}	Strana {0} z {1}
+Page {0}	Strana {0}
+Password-Protected	Chránené heslom
+Publisher Font	Font vydavateľa
+Retrieving furthest page read...	Zisťujem najvzdialenejšiu čítanú pozíciu...
+Save	Uložiť
+Settings	Nastavenia
+Share	Zdieľať
+Shared Notes & Highlights	Zdieľať poznámky a zvýraznenia
+Shop in Kindle Store	Nakupovať v obchode Kindle
+Submit	Odoslať
+Sync Results	Synchronizovať výsledky
+Sync to Furthest Page Read	Zistiť najďalej čítanú pozíciu
+Sync	Synchronizovať
+Table of Contents	Obsah
+Table of Contents...	Obsah...
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	Kindle má nedostatok pamäte pre pridanie alebo úpravu poznámok alebo značiek v tomto dokumente. Uvoľnite prosím viac pamäte odstránením obsahu z hlavnej obrazovky.
+This PDF is password-protected.	Tento dokument je chránený heslom.
+To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	Pre synchronizáciu najvzdialenejšej čítanej pozície musí byť zapnuté zálohovanie komentárov. V hlavnej obrazovky vojdite do nastavení, zvolte Možnosti čítania a potom Záloha komentárov.
+Unable to Sync	Nie je možné synchronizovať.
+Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	Nie je možné zistiť najvzdialenejšiu čítanú pozíciu. Ak ste túto kniho otvorili prvý krát, posledná pozícia sa aktualizuje po zatvorení knihy alepo po prejdení zariadenia do režimu spánku.
+Unlock Rotation	Odomknúť otáčanie
+View Note	Zobraziť poznámku
+View in Store	Zobraziť v obchode
+You are currently at location {0}. The furthest read location across all your devices is {2}. Go to that location?	Momentálne sa nachádzate na pozícii {0}. Najzdialenejšia čítaná pozícia na všetkých vašich zariadeniach je {2}. Prejsť na túto pozíciu?
+You are currently at location {0}. The furthest read location is {2} from "{4}" at {5,time,short} {6}. Go to that location?	Momentálne sa nachádzate na pozíci {0}. Najzdialenejšia čítaná pozícia je {2} z "{4}" o {5,time,short} {6}. Prejsť na túto pozíciu?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	Nachádzate sa na neočíslovanej strane, {1,number,percent} tejto knihy. Najzdialenejšia čítaná strana je neočíslovaná strana, {3,number,percent} tejto knihy, z "{4}" o {5,time,short} {6}. Prejsť na túto stranu?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is {2}, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	Nachádzate sa na neočíslovanej strane, {1,number,percent} tejto knihy. Najzdialenejšia čítaná strana je {2}, {3,number,percent} tejto knihy, z "{4}" o {5,time,short} {6}. Prejsť na túto stranu?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	Nachádzate sa na neočíslovanej strane, {1,number,percent} tejto knihy. Najzdialenejšia čítaná strana na všetkých vašich zariadeniach je neočíslovaná strana, {3,number,percent}. Prejsť na túto stranu?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is {2}, {3,number,percent} into the book. Go to that page?	Nachádzate sa na neočíslovanej strane, {1,number,percent} tejto knihy. Najzdialenejšia čítaná strana na všetkých vašich zariadeniach je {2}, {3,number,percent} tejto knihy. Prejsť na túto stranu?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book across all your devices. Go to the furthest place read?	Nachádzate sa na neočíslovanej strane, {1,number,percent} tejto knihy. Zo všetkých vašich zariadení ste na najvzdialenejšej pozícii v tejto knihe. Prejsť na najvzdialenejšiu čítanú pozíciu?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	Nachádzate sa na neočíslovanej strane, {1,number,percent} tejto knihy. Najvzdialenejšia pozícia tejto knihy je z "{4}" o {5,time,short} {6}. Prejsť na najvzdialenejšiu čítanú pozíciu?
+You are currently on page {0}, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	Nachádzate sa na strane {0}, {1,number,percent} tejto knihy. Najzdialenejšia čítaná strana je neočíslovaná strana, {3,number,percent} tejto knihy, z "{4}" o {5,time,short} {6}. Prejsť na túto stranu?
+You are currently on page {0}, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	Nachádzate sa na strane {0}, {1,number,percent} tejto knihy. Najzdialenejšia čítaná strana na všetkých vašich zariadeniach je neočíslovaná strana, {3,number,percent} tejto knihy. Prejsť na túto stranu?
+You are currently on page {0}. The furthest page read is {2}, from "{4}" at {5,time,short} {6}. Go to that page?	Nachádzate sa na strane {0}. Najvzdialenejšia čítaná strana je {2}, z "{4}" o {5,time,short} {6}. Prejsť na túto stranu?
+You are currently on page {0}. The furthest read page across all your devices is {2}. Go to that page?	Nachádzate sa na strane {0}. Najzdialenejšia čítaná strana na všetkých vašich zariadeniach je {2}. Prejsť na túto stranu?
+You are currently on page {0}. You have read further on this page, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	Nachádzate sa na strane {0}. Na tejto strane ste dosiahli vzdialenejšiu čítanú pozíciu, z "{4}" o {5,time,short} {6}. Prejsť na vzdialenejšiu čítanú pozíciu?
+You are currently on page {0}. You have read further than this page across all your devices. Go to the furthest place read?	Nachádzate sa na strane {0}. Naprieč všetkým vašim zariadeniam ste dosiahli vzdialenejšiu čítanú stranu. Prejsť na najvzdialenejšiu čítanú pozíciu?
+darker	tmavší
+darkest	najtmavší
+default	východzí
+lighter	svetlejší
+lightest	najsvetlejší
+on {7,date,long}	dňa {7,date,long}
+today	dnes
+yesterday	včera

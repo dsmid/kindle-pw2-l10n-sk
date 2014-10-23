@@ -1,80 +1,80 @@
-"{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.	
-"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	
-"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.	
-"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn on wireless.	
-"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	
-"{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	
-About Kindle FreeTime	
-About Vocabulary Builder	
-Aeroplane Mode	
-Cancel Download	
-Cancel	
-Collections that appear in all views on this device are displayed with a star.	
-Connect	
-Content Not Synced	
-Delete This Audiobook	
-Delete This Blog	
-Delete This Book	
-Delete This Collection	
-Delete This Document	
-Delete This Image Folder	
-Delete This Image Package	
-Delete This Image	
-Delete This Issue	
-Delete This Item	
-Delete This Letter	
-Delete This MP3	
-Delete This Notice	
-Delete This Receipt	
-Delete This Sample	
-Delete	
-Ignore	
-Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.	
-Memory is Full	
-Network Connection Failed	
-Remove from Device	
-Show Only in Collections	
-Show in All Views	
-Tap to Open	
-This collection is synced across all of your devices and will be deleted on all of them.~~~~Deleting a collection does not remove the content stored on your device or in the Cloud. Are you sure you want to delete this collection?	
-This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	
-Turn Off FreeTime	
-Turn Off	
-Turn On Wireless?	
-Unable to Sync	
-Vocabulary Builder Turned Off	
-Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, and Vocabulary Builder.	
-Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	
-Wi-Fi Required	
-Wi-Fi required	
-You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	
-You have added items to this collection that will not be synced with the Cloud.	
-connection required	
-download complete	
-downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	
-error	
-insufficient space	
-licence at limit	
-on loan	
-pending	
-{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	
-{0}~~~~Are you sure you want to delete this MP3?	
-{0}~~~~Are you sure you want to delete this audiobook?	
-{0}~~~~Are you sure you want to delete this blog?	
-{0}~~~~Are you sure you want to delete this book?	
-{0}~~~~Are you sure you want to delete this document?	
-{0}~~~~Are you sure you want to delete this image folder?	
-{0}~~~~Are you sure you want to delete this image package?	
-{0}~~~~Are you sure you want to delete this image?	
-{0}~~~~Are you sure you want to delete this item?	
-{0}~~~~Are you sure you want to delete this letter?	
-{0}~~~~Are you sure you want to delete this notice?	
-{0}~~~~Are you sure you want to delete this receipt?	
-{0}~~~~Are you sure you want to delete this sample?	
-{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	
- Wi-Fi required	
- connection required	
- downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	
- error	
- insufficient space	
- pending	
+"{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.	"{0}" nebolo možné doručiť z dôvodu veľkosti súboru. Môžte buď zrušiť sťahovanie, preniesť položku cez USB alebo ju stiahnuť pomocou bezdrôtového pripojenia.
+"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	"{0}" nebolo možné doručiť. Môžte buď zrušiť sťahovanie, alebo ju stiahnuť cez bezdrôtové pripojenie.
+"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.	"{0}" nebolo možné stiahnuť, pretože je zapnutý letový režim. Môžte buď zrušiť sťahovanie, alebo vypnite letový režim.
+"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn on wireless.	"{0}" sa nepodarilo stiahnuť, pretože je vypnuté bezdrôtové pripojenie. Môžte buď zrušiť sťahovanie, alebo zapnite bezdrôtové pripojenie.
+"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	"{0}" nebolo možné stiahnuť, pretože má Kindle nedostatok pamäte. Buď uvolnite pamäť odstránením niektorých položiek z hlavnej obrazovky, alebo zrušte sťahovanie.
+"{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	"{0}" nebolo možné stiahnuť, nakoľko Kindle stratil internetové pripojenie. Buď zrušte sťahovanie, alebo sa pokúste opäť pripojiť do siete.
+About Kindle FreeTime	O Kindle FreeTime
+About Vocabulary Builder	O užívateľskom slovníku
+Aeroplane Mode	Letový režim
+Cancel Download	Zrušiť sťahovanie
+Cancel	Zrušiť
+Collections that appear in all views on this device are displayed with a star.	Kolekcie, ktoré sa na tomto zariadení zobrazujú vo všetkých náhľadoch, sú označené hviezdičkou.
+Connect	Pripojiť
+Content Not Synced	Obsah nie je zosynchronizovaný
+Delete This Audiobook	Vymazať túto audioknihu
+Delete This Blog	Vymazať tento príspevok
+Delete This Book	Vymazať túto knihu
+Delete This Collection	Vymazať túto kolekciu
+Delete This Document	Vymazať tento dokument
+Delete This Image Folder	Vymazať túto zložku s obrázkami
+Delete This Image Package	Vymazať tento balík obrázkov
+Delete This Image	Vymazať tento obrázok
+Delete This Issue	Vymazať tento výtlačok
+Delete This Item	Vymazať túto položku
+Delete This Letter	Vymazať tento list
+Delete This MP3	Vymazať túto mp3
+Delete This Notice	Vymazať toto upozornenie
+Delete This Receipt	Vymazať tento recept
+Delete This Sample	Vymazať túto ukážku 
+Delete	Vymazať
+Ignore	Ignorovať
+Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.	Kindle FreeTime bol deaktivovaný a už sa viac nebude zobrazovať na hlavnej obrazovke. Ak ho chcete zapnúť, vojdite do Nastavení, Možnosti zariadenia, Rodičovská kontrola a FreeTime.
+Memory is Full	Pamäť plná
+Network Connection Failed	Sieťové pripojenie zlyhalo
+Remove from Device	Odstrániť zo zariadenia
+Show Only in Collections	Zobraziť len v kolekcii
+Show in All Views	Zobrazovať vo všetkých náhľadoch
+Tap to Open	Kliknite pre otvorenie
+This collection is synced across all of your devices and will be deleted on all of them.~~~~Deleting a collection does not remove the content stored on your device or in the Cloud. Are you sure you want to delete this collection?	Táto kolekcia je synchronizovaná naprieč všetkými vašimi zariadeniami a bude z nich preto odstránená.~~~~Odstránením kolekcie sa nevymaže obsah uložený vo vašom zariadení, alebo na cloud serveri. Ste si istý že chcete túto kolekciu odstrániť?
+This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Táto kolekcia bude zobrazená iba v náhľade kolekcií. Ak ju chcete nechať zobraziť, v menu Moje položky vyberte Kolekcie. Ak kliknete a podržíte prst na kolekcii, pre túto kolekciu budete môcť nastaviť zobrazenie.
+Turn Off FreeTime	Vypnúť Kindle FreeTime
+Turn Off	Vypnúť
+Turn On Wireless?	Zapnúť bezdrôtové pripojenie?
+Unable to Sync	Nepodarilo sa synchronizovať
+Vocabulary Builder Turned Off	Užívateľský slovník vypnutý
+Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, and Vocabulary Builder.	Užívateľský slovník bol deaktivovaný a už sa viac nebude zobrazovať na hlavnej obrazovke. Ak ho chcete zapnúť, vojdite do Nastavení, Možnosti čítania a Užívateľský slovník.
+Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	Užívateľský slovník vám pomáha počas čítania s výukou nových slov.~~~~Slová, ktoré počas čítania vyhľadáte v slovníku sa tu automaticky zobrazia. Môžte si ich nechať pozrieť ako pomocné kartičky, alebo zobraziť ako boli použité v knihe.
+Wi-Fi Required	Vyžadované bezdrôtové pripojenie
+Wi-Fi required	Vyžadované bezdrôtové pripojenie
+You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	Momentálne nie ste pripojený do siete a vaša kolekcia nebude aktualizovaná, pokiaľ sa nepripojíte na internet.~~~~Chcete sa teraz pripojiť?
+You have added items to this collection that will not be synced with the Cloud.	Pridali ste položky do kolekcie, ktorá nebude synchronizovaná s cloud serverom.
+connection required	vyžadované pripojenie
+download complete	sťahovanie dokončené
+downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	sťahujem - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
+error	chyba
+insufficient space	nedostatok miesta
+licence at limit	licencia vyčerpaná
+on loan	zapožičanie
+pending	čaká sa
+{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	{0}: {1,date,EEE}, {1,date,medium}~~~~Ste si istý, že chcete vymazať tento výtlačok?
+{0}~~~~Are you sure you want to delete this MP3?	{0}~~~~Ste si istý, že chcete vymazať túto MP3?
+{0}~~~~Are you sure you want to delete this audiobook?	{0}~~~~Ste si istý, že chcete vymazať túto audioknihu?
+{0}~~~~Are you sure you want to delete this blog?	{0}~~~~Ste si istý, že chcete vymazať tento príspevok?
+{0}~~~~Are you sure you want to delete this book?	{0}~~~~Ste si istý, že chcete vymazať túto knihu?
+{0}~~~~Are you sure you want to delete this document?	{0}~~~~Ste si istý, že chcete vymazať tento kokument?
+{0}~~~~Are you sure you want to delete this image folder?	{0}~~~~Ste si istý, že chcete vymazať túto zložku?
+{0}~~~~Are you sure you want to delete this image package?	{0}~~~~Ste si istý, že chcete vymazať tento balík?
+{0}~~~~Are you sure you want to delete this image?	{0}~~~~Ste si istý, že chcete vymazať tento obrázok?
+{0}~~~~Are you sure you want to delete this item?	{0}~~~~Ste si istý, že chcete vymazať túto položku?
+{0}~~~~Are you sure you want to delete this letter?	{0}~~~~Ste si istý, že chcete vymazať tento list?
+{0}~~~~Are you sure you want to delete this notice?	{0}~~~~Ste si istý, že chcete vymazať toto upozornenie?
+{0}~~~~Are you sure you want to delete this receipt?	{0}~~~~Ste si istý, že chcete vymazať tento recept?
+{0}~~~~Are you sure you want to delete this sample?	{0}~~~~Ste si istý, že chcete vymazať túto ukážku?
+{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0}~~~~Táto položka bude premiestnená na cloud server, avšak všetky údaje aplikácie alebo nastavenia, ktoré sú s ňou spojené budú nenávratne vymazané. Prajete si pokračovať?
+ Wi-Fi required	 nutné Wi-Fi pripojenie
+ connection required	 vyžadované pripojenie
+ downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	 sťahovanie - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
+ error	 chyba
+ insufficient space	 nedostatok miesta
+ pending	 čaká sa

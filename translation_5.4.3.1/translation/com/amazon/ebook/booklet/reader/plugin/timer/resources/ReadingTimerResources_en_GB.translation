@@ -1,20 +1,20 @@
-Learning reading speed ({0, number, percent})	
-Learning reading speed...	
-Loc {0} of {1}	
-Location in book	
-None	
-Page in book	
-Page {0} of {1}	
-Page {0}	
-Reading Progress	
-Reset Reading Timer	
-Select Reading Progress	
-Time left in book	
-Time left in chapter	
-Turn Off Reading Timer	
-Turn On Reading Timer	
-Updating...	
-section	
-{0, plural,=0 {Book completed} one {Time left in book: {1}} other {Time left in book: {1}}}	
-{0, plural,=0 {Chapter completed} one {Time left in chapter: {1}} other {Time left in chapter: {1}}}	
-{0,select,TimeLeftInGoal {{1, plural,=0 {You have reached the goal} one {{1,number,integer} min left until you reach your reading goal} other {{1,number,integer} mins left until you reach your reading goal}}} GoalReached {You have reached the goal} other {{1, plural,=0{You have reached the goal} one{Daily goal reached {1,number,integer} min ago} other{Daily goal reached {1,number,integer} mins ago}}}}	
+Learning reading speed ({0, number, percent})	Učenie rýchlosti čítania ({0, number, percent})
+Learning reading speed...	Učenie rýchlosti čítania...
+Loc {0} of {1}	Poz {0} z {1}
+Location in book	Pozícia v knihe
+None	Nič
+Page in book	Strana v knihe
+Page {0} of {1}	Strana {0} z {1}
+Page {0}	Strana {0}
+Reading Progress	Priebeh čítania
+Reset Reading Timer	Vynulovať počítadlo čítania
+Select Reading Progress	Zvolte priebeh čítania
+Time left in book	Čas do konca knihy
+Time left in chapter	Čas do konca kapitoly
+Turn Off Reading Timer	Vypnúť počítadlo čítania
+Turn On Reading Timer	Zapnúť počítadlo čítania
+Updating...	Aktualizujem...
+section	odsek
+{0, plural,=0 {Book completed} one {Time left in book: {1}} other {Time left in book: {1}}}	{0, plural,=0 {Kniha dočítaná} one {Čas do konca knihy: {1}} other {Čas do konca knihy: {1}}}
+{0, plural,=0 {Chapter completed} one {Time left in chapter: {1}} other {Time left in chapter: {1}}}	{0, plural,=0 {Kapitola dočítaná} one {Čas do konca kapitoly: {1}} other {Čas do konca kapitoly: {1}}}
+{0,select,TimeLeftInGoal {{1, plural,=0 {You have reached the goal} one {{1,number,integer} min left until you reach your reading goal} other {{1,number,integer} mins left until you reach your reading goal}}} GoalReached {You have reached the goal} other {{1, plural,=0{You have reached the goal} one{Daily goal reached {1,number,integer} min ago} other{Daily goal reached {1,number,integer} mins ago}}}}	{0,select,TimeLeftInGoal {{1, plural,=0 {Dosiahli ste stanovený cieľ} one {{1,number,integer} minúta do stanoveného cieľa} other {{1,number,integer} minút do stanoveného cieľa}}} GoalReached {Dosiahli ste stanovený cieľ} other {{1, plural,=0{Dosiahli ste stanovený cieľ} one{Dosiahnutý denný cieľ pred {1,number,integer} minútou} other{Dosiahnutý denný cieľ pred {1,number,integer} minútami}}}}

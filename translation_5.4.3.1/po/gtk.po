@@ -20,7 +20,7 @@ msgstr "Menu"
 
 
 msgid "_Cancel"
-msgstr "_Zrušit"
+msgstr "_Zrušiť"
 # msgstr "_Cancel"
 
 
