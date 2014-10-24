@@ -13,8 +13,8 @@ Note {0}	Poznámka {0}
 Notes & Marks ({0,number,integer}) ·	Poznámky a značky ({0,number,integer}) ·
 Notes & Marks	Poznámky a značky
 Notes	Poznámky
-Popular Highlights ({0,number,integer})	Populárne zvýraznenia ({0,number,integer})
-Popular Highlights	Populárne zvýraznenia
+Popular Highlights ({0,number,integer})	Obľúbené zvýraznenia ({0,number,integer})
+Popular Highlights	Obľúbené zvýraznenia
 Public Notes ({0,number,integer})	Verejné poznámky ({0,number,integer})
 Public Notes from {0}.	Verejné poznámky od {0}.
 Public Notes	Verejné poznámky
