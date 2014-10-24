@@ -36,12 +36,12 @@ Updates	Aktualizácie
 Want to Read ({0,number,integer})	Chcieť čítať ({0,number,integer})
 Want to Read ({0})	Chcieť čítať ({0})
 Want to Read	Chcieť čítať
-{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}	{0,plural,=0 {komentár} one {Komentár ({0,number,integer})} other {{0,choice,0#Komentárov ({0,number,integer})|100#Komentárov (99+)}}}
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}	{0,plural,=0 {komentár} one {Komentár ({0,number,integer})} other {{0,choice,0#Komentárov: ({0,number,integer})|100#Komentárov: (99+)}}}
 {0,plural,=0 {Comment} one {{0,number,###0} Comment} other {{0,number,###0} Comments}}	{0,plural,=0 {komentár} one {{0,number,###0} komentár} other {Komentárov {0,number,###0}}}
 {0,plural,=0 {{0,number,###0} days} one {{0,number,###0} day} other {{0,number,###0} days}} ago	Pred {0,plural,=0 {{0,number,###0} dňami} one {{0,number,###0} dňom} other {{0,number,###0} dňami}}
 {0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}	{0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}
 {0,select, liked {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}	{0,select, sa páči {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}
-{0,select, liked {{1,choice,0#✓ Like ({1,number,integer})|100#✓ Like (99+)}} other {{1,choice,0#Like|1#Like ({1,number,integer})|100#Like (99+)}}}	{0,select, sa páči {{1,choice,0#✓ Páči ({1,number,integer})|100#✓ Páči (99+)}} other {{1,choice,0#Like|1#Páči ({1,number,integer})|100#Páči (99+)}}}
+{0,select, liked {{1,choice,0#✓ Like ({1,number,integer})|100#✓ Like (99+)}} other {{1,choice,0#Like|1#Like ({1,number,integer})|100#Like (99+)}}}	{0,select, sa páči {{1,choice,0#✓ Páči ({1,number,integer})|100#✓ Páči (99+)}} other {{1,choice,0#Like|1#Páči: ({1,number,integer})|100#Páči: (99+)}}}
 {0,select,unrated {wrote a review} other {rated {1}}}	{0,select,unrated {napísal hodnotenie} other {ohodnotil {1}}}
 ✓ Currently Reading	✓ Rozčítané
 ✓ Following	✓ Sledovaní
