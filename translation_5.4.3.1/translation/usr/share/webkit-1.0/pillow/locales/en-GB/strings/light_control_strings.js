@@ -1,4 +1,4 @@
-&#9654	
+&#9654	&#9654
 Advanced	Rozšírené
 Auto Brightness	Automatický jas
 In brightly lit rooms, use a <u>high</u> setting.	V jasne osvetlených miestnostiach použite <u>vysokú</u> úroveň.
