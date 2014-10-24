@@ -6,6 +6,6 @@ Dictionary	Slovník
 Douban	Douban
 Google	Google
 Kindle Store	Obchod Kindle
-My Items	Moje položky
+My Items	Položky
 Web Address	Webové adresy
 Wikipedia	Wikipédia
