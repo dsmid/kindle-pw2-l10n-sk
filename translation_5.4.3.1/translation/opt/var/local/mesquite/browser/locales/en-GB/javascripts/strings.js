@@ -60,18 +60,18 @@ Wikipedia	Wikipédia
 Yahoo Mail	Yahoo Mail
 Yahoo	Yahoo
 Yesterday - {date}	Včera - {date}
-browserStrings	
-http://en.wikipedia.org/	
-http://m.facebook.com/	
-http://m.gmail.com/	
-http://m.yahoo.com/mail?.intl=gb	
-http://mobile.twitter.com/	
-http://news.bbc.co.uk/	
-http://uk.imdb.com/	
-http://uk.yahoo.com/	
-http://www.amazon.co.uk/	
-http://www.dailymail.co.uk/	
-http://www.google.co.uk/	
-http://www.google.co.uk/search?q=	
-s go function	
-strings', 'object	
+browserStrings	browserStrings
+http://en.wikipedia.org/	http://en.wikipedia.org/
+http://m.facebook.com/	http://m.facebook.com/
+http://m.gmail.com/	http://m.gmail.com/
+http://m.yahoo.com/mail?.intl=gb	http://m.yahoo.com/mail?.intl=gb
+http://mobile.twitter.com/	http://mobile.twitter.com/
+http://news.bbc.co.uk/	http://news.bbc.co.uk/
+http://uk.imdb.com/	http://uk.imdb.com/
+http://uk.yahoo.com/	http://uk.yahoo.com/
+http://www.amazon.co.uk/	http://www.amazon.co.uk/
+http://www.dailymail.co.uk/	http://www.dailymail.co.uk/
+http://www.google.co.uk/	http://www.google.co.uk/
+http://www.google.co.uk/search?q=	http://www.google.co.uk/search?q=
+s go function	s go function
+strings', 'object	strings', 'object
