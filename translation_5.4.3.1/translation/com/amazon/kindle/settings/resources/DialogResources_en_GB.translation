@@ -1,7 +1,7 @@
 <html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB free}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	<html><b>Wi-Fi MAC adresa:</b>&nbsp;{1}<br/><b>Sériové číslo:</b>&nbsp;{2}<br/><b>Možnosti pripojenia:</b>&nbsp;{3}<br/><b>Verzia firmvéru:</b>&nbsp;{4}<br/><b>Dostupná veľkosť:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB voľných}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>
 Cancel	Zrušiť
 Close	Zatvoriť
-Deregister Your Kindle	Deregistrovať váš Kindle
+Deregister Your Kindle	Deregistrovať Kindle
 Deregister	Deregistrácia
 Deregistering Your Kindle…	Kindle sa deregistruje…
 Device Info	Informácie o zariadení
