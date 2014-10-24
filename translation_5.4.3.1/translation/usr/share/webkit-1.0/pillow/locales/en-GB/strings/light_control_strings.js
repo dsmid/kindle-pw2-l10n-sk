@@ -3,8 +3,8 @@ Advanced	Rozšírené
 Auto Brightness	Automatický jas
 In brightly lit rooms, use a <u>high</u> setting.	V jasne osvetlených miestnostiach použite <u>vysokú</u> úroveň.
 Max.	Max.
-Off	Vypnuté
-On	Zapnuté
+Off	Vypnutý
+On	Zapnutý
 Recommended for Bright Rooms	Odporúčané pre jasné miestnosti
 Recommended for Dark Rooms	Odporúčané pre temné miestnosti
 Recommended for Dim Rooms	Odporúčané pre slabo osvetlené miestnosti
