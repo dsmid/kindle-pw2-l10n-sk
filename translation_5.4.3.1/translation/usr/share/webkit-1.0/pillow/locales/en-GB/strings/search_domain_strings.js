@@ -1,4 +1,4 @@
-100pt	
+100pt	100pt
 All Text	Všetok text
 Baidu Baike	Baidu Baike
 Baidu	Baidu

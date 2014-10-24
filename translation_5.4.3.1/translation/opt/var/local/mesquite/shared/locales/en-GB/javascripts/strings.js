@@ -11,4 +11,4 @@ Turn Off Wireless	Vypnúť bezdrátové pripojenie
 Turn On Wireless	Zapnúť bezdrátové pripojenie
 Unable to Connect	Pripojenie neúspešné
 Your Kindle is currently unable to connect.<br><br>Please try again later.	Váš Kindle sa momentálne nemôže pripojiť.<br><br>Skúste to prosím neskôr.
-strings	
+strings	strings

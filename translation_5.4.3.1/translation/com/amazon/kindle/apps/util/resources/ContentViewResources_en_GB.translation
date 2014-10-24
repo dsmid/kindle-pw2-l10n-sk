@@ -1,27 +1,27 @@
-Active	
-Archived Items	
+Active	Aktívne
+Archived Items	Archivované položky
 Archived	Archivované
 Book	Kniha
 Collection	Kolekcia
-Dev	
+Dev	Výv.
 Dictionaries	Slovníky
 Dictionary	Slovník
 Expired	Expirované
 Expiring	Expiruje
 Images	Obrázky
 Keep	Ponechať
-Letter	
-Magazine	
+Letter	List
+Magazine	Časopis
 Music	Hudba
-My Clippings	
+My Clippings	Moje pripnutia
 New	Nový
-Newspaper	
-Notice	Upozornenie
+Newspaper	Noviny
+Notice	Oznam
 On Loan	Zapožičané
 Opening...	Otváram...
-Periodical Back Issues	
+Periodical Back Issues	Staršie čísla časopisov
 Personal	Osobné
 Receipt	Recept
 Rental	Prenájom
 Sample	Ukážka
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položiek {0,number,integer}}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položiek: {0,number,integer}}}
