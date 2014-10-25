@@ -4,5 +4,5 @@ Keyboards	Klávesnice
 Language and Dictionaries	Jazyk a slovníky
 Language	Jazyk
 Set the default dictionary for each language.	Nastavenie východzieho slovníka pre každý z jazykov.
-Set the language on your Kindle.	Nastavenie jazyka na vašom Kindly.
-{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {Bez klávesníc} one {{0, number, integer} klávesnica} other {Klávesníc {0, number, integer}}}
+Set the language on your Kindle.	Nastavenie jazyka používateľského rozhrania.
+{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {Bez klávesnice} one {{0, number, integer} klávesnica} other {Klávesnice: {0, number, integer}}}

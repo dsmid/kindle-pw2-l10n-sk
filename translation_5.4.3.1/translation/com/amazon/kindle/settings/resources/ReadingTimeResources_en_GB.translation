@@ -5,6 +5,6 @@ Get Started	Začíname
 Get started in 4 steps:	Začíname 4 krokmi:
 Start	Štart
 {0} {1, plural, =0 {({1, number, integer} books)} one {({1, number, integer} book)} other {({1, number, integer} books)} }	{0} {1, plural, =0 {({1, number, integer} kníh)} one {({1, number, integer} kniha)} other {({1, number, integer} kníh)} }
-• Create a password.~~• Add a profile.~~• Fill it up with books.~~• Set a reading goal for your child.	• Vytvorenie hesla~~• Pridanie profilu~~• Naplnenie knihami.~~• Nastavenie čitateľského cieľa pre vaše dieťa
+• Create a password.~~• Add a profile.~~• Fill it up with books.~~• Set a reading goal for your child.	• Vytvorenie hesla~~• Pridanie profilu~~• Naplnenie knihami~~• Nastavenie čitateľského cieľa pre vaše dieťa
 • Enter your password.~~• Add a profile.~~• Fill it up with books.~~• Set a reading goal for your child.	• Zadanie hesla~~• Pridanie profilu~~• Naplnenie knihami~~• Nastavenie čitateľského cieľa pre vaše dieťa
  ({0,plural,=0{{1} books} one {{1} book} other {{1} books}})	 ({0,plural,=0{{1} kníh} one {{1} kniha} other {Kníh: {1}}})

@@ -28,7 +28,7 @@ MSCHAPv2	MSCHAPv2
 Network Name Too Long	Názov siete príliš dlhý
 Network Name	Názov siete
 No Wi-Fi networks were found	Nenájdené žiadne Wi-Fi siete
-None	Žiadne
+None	Žiadny
 OK	OK
 Other...	Iné...
 PAP	PAP
@@ -39,13 +39,13 @@ Password	Heslo
 Personal	Personal
 Phase 2 Authentication	Autentifikácia Phase 2
 Rescan	Znovu vyhľadávať
-Router	Router
+Router	Brána / Gateway
 Scan Complete	Vyhľadávanie dokončené
 Scanning for Networks	Vyhľadávanie sietí
 Security Error	Chyba zabezpečenia
 Security Type	Typ zabezpečenia
 Set Up	Nastaviť
-Static	Statická
+Static	Statické
 Subnet Mask	Maska podsiete
 TTLS	TTLS
 The security certificate cannot be located. Please verify that the name is correct and try again.	Nebol nájdený certifikát zabezpečenia. Uistite sa, že je názov správny a skúste to znovu.
