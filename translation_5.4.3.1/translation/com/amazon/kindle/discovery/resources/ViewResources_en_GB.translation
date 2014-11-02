@@ -20,7 +20,7 @@ Edit Profile	Upraviť profil
 Enter your full name or your first name here. This will be the name that appears on your public Amazon and Goodreads profiles.	Napíšte vaše celé meno alebo len prvé meno. Toto meno sa zobrazí vo vašom verejnom profile na Amazone a Goodreads.
 Facebook E-mail	Facebook E-mail
 Facebook Password	Facebook heslo
-Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Sledujte týchto významných čitateľov a prezerajte si ich hodnotenia a odporúčania{0,select, with_connect_message {, alebo sa pripojte na našich priateľov na Facebooku.} other {.}}
+Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Sledujte týchto významných čitateľov a prezerajte si ich hodnotenia a odporúčania{0,select, with_connect_message {, alebo sa pripojte na priateľov na Facebooku.} other {.}}
 Followers ({0})	Sledujúci ({0})
 Following ({0})	Sledovaní ({0})
 Friends ({0})	Priatelia ({0})
