@@ -16,7 +16,7 @@ Finish a book to earn this achievement.	Na dosiahnutie tohto výkonu dočítaj k
 High-Flyer {0,choice,0#|2#({0,number,integer})}	Ambiciózny {0,choice,0#|2#({0,number,integer})}
 Just Getting Started {0,choice,0#|2#({0,number,integer})}	Začiatočník {0,choice,0#|2#({0,number,integer})}
 Kilo-Pages! {0,choice,0#|2#({0,number,integer})}	Hrozná kopa {0,choice,0#|2#({0,number,integer})}
-Looked-Up Words	Vyhľadávané slová
+Looked-Up Words	Hľadané slová
 Month	Mesiac
 No Image	Bez obrázku
 No Title	Bez názvu
