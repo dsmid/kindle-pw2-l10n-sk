@@ -40,7 +40,7 @@ Purchase Limit Reached	Dosiahli ste limit zakúpení
 Purchases Pending	Nevybavené nákupy
 Purchasing Locked	Nakupovanie uzamknuté
 Restart Required	Vyžadovaný reštart
-Restart	Reštart
+Restart	Reštartovať
 Restarting your Kindle	Kindle sa reštartuje
 Screen Off	Vyp.displej
 Settings Menu Locked	Menu Nastavenia uzamknuté
