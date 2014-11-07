@@ -35,14 +35,14 @@ Parental Controls are enabled on your Kindle. Kindle Store is locked.	Je zapnut�
 Parental Controls are enabled on your Kindle. Purchases are not allowed.	Je zapnutá rodičovská kontrola. Nakupovanie nie je povolené.
 Parental Controls are enabled on your Kindle. Web Browser is locked.	Je zapnutá rodičovská kontrola. Internetový prehliadač uzamknutý.
 Please select from the following options:	Vyberte si prosím z nasledujúcich možností:
-Power	Napájanie
+Power	Vypnutie
 Purchase Limit Reached	Dosiahli ste limit zakúpení
 Purchases Pending	Nevybavené nákupy
 Purchasing Locked	Nakupovanie uzamknuté
 Restart Required	Vyžadovaný reštart
 Restart	Reštart
 Restarting your Kindle	Kindle sa reštartuje
-Screen Off	Vypnúť obrazovku
+Screen Off	Vyp.displej
 Settings Menu Locked	Menu Nastavenia uzamknuté
 Shipping Mode Failed	Nepodarilo sa nastaviť prepravný mód
 Social Networks Locked	Sociálne siete uzamknuté
