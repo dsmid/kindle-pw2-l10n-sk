@@ -38,7 +38,7 @@ Password Too Short	Heslo príliš krátke
 Password	Heslo
 Personal	Personal
 Phase 2 Authentication	Autentifikácia Phase 2
-Rescan	Znovu vyhľadávať
+Rescan	Obnoviť zoznam
 Router	Brána / Gateway
 Scan Complete	Vyhľadávanie dokončené
 Scanning for Networks	Vyhľadávanie sietí
