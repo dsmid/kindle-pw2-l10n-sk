@@ -11,7 +11,7 @@ Manage FreeTime Items	Spravovať položky FreeTime
 Narrator: 	Komentátor: 
 On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	V zariadení: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položky: {0,number,integer}} }
 Rename	Premenovať
-Show Only in Collections View	Zobraziť len v kolekcii
+Show Only in Collections View	Zobraziť len v náhľadoch kolekcií
 Show in All Views	Zobrazovať vo všetkých náhľadoch
 Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Celkom: {0,plural,=0 {Žiadne položky} one {{0,number,integer} položka} other {Položky: {0,number,integer}} }
 Turn Off FreeTime	Vypnúť Kindle FreeTime
